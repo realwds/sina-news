@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Mon, 08 Mar 2021 03:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Mar 2021 03:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【发改委：全面推进健康中国建设 构建强大公共卫生体系】发改委副主任胡祖才表示，在医疗卫生方面，主要是全面推进健康中国建设。构建强大公共卫生体系，提高应对突发公共卫生事件能力。完善公立医疗机构为主体的医疗服务体系，支持医疗资源薄弱省份建设一批区域医疗中心，提升以县级医院为重点的基层医疗服务能力。提升医护人员培养质量与规模，每千人口拥有执业（助理）医师数提高到3.2人、注册护士数提高到3.8人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9198801.d.html</link>
+            <guid>2059066</guid>
+            <pubDate>Mon, 08 Mar 2021 03:12:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【发改委：加快促进农业转移人口全面融入城市】发改委副主任胡祖才表示，目前仍有2亿多农业转移人口没有在城市落户，部分已经落户的还存在市民化质量不高问题，推进农业转移人口市民化仍是新型城镇化的首要任务。要坚持存量优先、带动增量，统筹推进户籍制度改革和基本公共服务全覆盖，加快促进农业转移人口全面融入城市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9196960.d.html</link>
+            <guid>2059063</guid>
+            <pubDate>Mon, 08 Mar 2021 03:10:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  全国工商联副主席黄荣介绍，全国工商联采取多种方式，有针对性地帮助解决民营企业的困难。今年将继续把防范化解民营企业风险、组织民营企业参与乡村振兴等重大战略作为重要工作。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak6034393.d.html</link>
@@ -278,29 +290,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak5991851.d.html</link>
             <guid>2058957</guid>
             <pubDate>Mon, 08 Mar 2021 01:39:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国国债的空头热潮上周创下纪录水平】投资者大举押注美国国债下跌，债券看空程度上周达到创纪录水平。根据商品期货交易委员会最新的数据，美国国债期货收益率曲线中非商业净持仓量变化的总体指标创下最大纪录降幅。道明证券策略师Penglu Zhao表示，这一变化相当于450亿美元的基准美国国债净空头头寸 。]]></title>
-            <guid>2058955</guid>
-            <pubDate>Mon, 08 Mar 2021 01:37:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[创业板指重回2900点，涨1％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9147737.d.html</link>
-            <guid>2058952</guid>
-            <pubDate>Mon, 08 Mar 2021 01:36:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[核电板块全线走强，南纺股份、兰石重装、台海核电、太原重工涨停，中国核建、科新机电、江苏神通等纷纷冲高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikkntiak5990433.d.html</link>
-            <guid>2058948</guid>
-            <pubDate>Mon, 08 Mar 2021 01:33:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[油服板块大涨，惠博普、准油股份一字涨停，通源石油、恒泰艾普、中曼石油、石化油服等集体高开。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-08/detail-ikknscsh9146110.d.html</link>
-            <guid>2058946</guid>
-            <pubDate>Mon, 08 Mar 2021 01:30:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
