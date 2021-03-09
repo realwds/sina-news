@@ -4,11 +4,83 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻直播</description>
-        <lastBuildDate>Tue, 09 Mar 2021 02:38:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Mar 2021 03:26:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【芯翌科技获NIST-FRVT戴口罩人脸识别评测第一 将推出全球最大公开人脸数据集】近日，芯翌科技在NIST-FRVT戴口罩人脸识别评测中以绝对优势获得世界第一的成绩，并在FRVT 1：1人脸识别评测中取得了世界前三，国内主流厂商第一的成绩。基于NIST-FRVT参赛过程和优化经验，芯翌科技将与清华大学联合推出全球最大的公开人脸数据集以及基于此数据集的一系列benchmark。相关学术论文已经被计算机视觉与模式识别领域国际顶级会议CVPR 2021接收。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikkntiak6553775.d.html</link>
+            <guid>2060499</guid>
+            <pubDate>Tue, 09 Mar 2021 03:20:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【百度健康首家共建互联网医院落地沧州】百度健康与沧州市人民医院宣布达成战略合作。双方将共同搭建“沧州市人民医院百度健康互联网医院”，为患者提供覆盖诊前、诊中、诊后全流程的健康管理服务，构建“以患者为导向的全病程健康管理服务体系”，提高医院便民、惠民服务能力。据悉，这是百度健康与公立医院共建的首家互联网医院，此前，百度健康已在海南、银川自建互联网医院服务。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikkntiak6550512.d.html</link>
+            <guid>2060494</guid>
+            <pubDate>Tue, 09 Mar 2021 03:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  锂电池概念股反弹，永兴材料拉升封板，容百科技、赣锋锂业、华友钴业、盛新锂能等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikknscsh9707113.d.html</link>
+            <guid>2060493</guid>
+            <pubDate>Tue, 09 Mar 2021 03:13:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【数字人民币支付首现于上海商场营销】昨天，记者在黄浦区新世界城和新世界大丸百货发现，两家商场开通了数字人民币付款的渠道。消费者打开手机上的“数字人民币”App，滑动屏幕调出付款二维码，扫一扫便可完成支付。据了解，这是数字人民币首次用于上海商场的大型营销活动中。  （解放日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikkntiak6545745.d.html</link>
+            <guid>2060489</guid>
+            <pubDate>Tue, 09 Mar 2021 03:07:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【赞宇科技：河南赞宇2套5.0t/h的磺化装置已投产】赞宇科技3月9日在互动平台表示，河南赞宇2套5.0t/h的磺化装置已试车成功并投产，目前看，新增产能主要将来自河南赞宇中原日化生态产业园项目和广东赞宇表面活性剂项目。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikknscsh9702935.d.html</link>
+            <guid>2060488</guid>
+            <pubDate>Tue, 09 Mar 2021 03:07:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【华为公开“人车交互方法”、“车道线信息的确定方法”两项自动驾驶领域专利】据天眼查APP显示，3月9日，华为技术有限公司公开两项名为“自动驾驶车辆的人车交互的方法、自动驾驶系统”、“一种车道线信息的确定方法及装置”的专利。专利公开号分别为CN112455461A、CN112461257A，专利申请日期为2019年9月6日、2019年9月9日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikkntiak6544987.d.html</link>
+            <guid>2060487</guid>
+            <pubDate>Tue, 09 Mar 2021 03:06:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【绿的谐波战略投资3D机器视觉创业公司图漾科技】今日，绿的谐波(688017)宣布领投行业领先的3D机器视觉创业公司上海图漾信息科技有限公司,双方将共同致力于解决机器人智能化道路上的障碍性技术难题、提高机器人的智能化水平并扩展机器人的应用场景。图漾科技老股东磐霖资本和民铢投资在本轮融资中持续加码，支持图漾科技的进一步业务发展和国际市场布局。目前，图漾科技已成为全球3D工业相机市场出货量领先的公司。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikknscsh9702408.d.html</link>
+            <guid>2060486</guid>
+            <pubDate>Tue, 09 Mar 2021 03:06:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【58同城、腾讯关联公司等在青岛合资成立转转科技有限公司 注册资本1340万】天眼查App显示，3月8日，青岛转转科技有限公司成立，注册资本1340万，法定代表人为黄炜，经营范围包括版权代理；知识产权服务；旧货销售；二手日用百货销售；再生资源回收；互联网销售等。股权穿透图显示，该公司由林芝利创信息技术有限公司，北京云企互联投资有限公司与黄炜合资成立。其中，北京云企互联投资有限公司为大股东，持股比例56.4%；林芝利创信息技术有限公司持股比例29.2%；疑似实际控制人为姚劲波。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikknscsh9701592.d.html</link>
+            <guid>2060485</guid>
+            <pubDate>Tue, 09 Mar 2021 03:05:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【热搜第一！国产人工角膜或今年上半年用于临床，价格是美国十分之一】#国产人工角膜或今年上半年用于临床#相关话题一度冲上了热搜第一名。全国人大代表、山东省眼科医院院长史伟云表示，中国研制的人工角膜或于2021年6月用于临床，将为中国终末角膜盲患者带去光明。史伟云还介绍，目前美国人工角膜费用在5万美元，他预计国产人工角膜大概在5000美元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikknscsh9697905.d.html</link>
+            <guid>2060480</guid>
+            <pubDate>Tue, 09 Mar 2021 03:00:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【亿晶光电：对于当前上游原辅材料涨价 公司已采取投资新产线、完善供应链体系等措施】亿晶光电在互动平台表示，对于当前上游原辅材料涨价，公司已采取投资新产线、完善供应链体系等措施，进一步降本增效。公司将在大股东支持及全体员工的努力下，提高经营管理水平，为全体股东创造更好的效益。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikknscsh9690637.d.html</link>
+            <guid>2060476</guid>
+            <pubDate>Tue, 09 Mar 2021 02:48:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海房贷新政显威！消费贷、经营贷用于购房的被要求提前还款】近日，网上开始流传的一些《个人贷款提前收回告知函》显示，由于借款人未按约履行借款合同“贷款用途”的相关规定，银行宣布合同下贷款提前到期，要求借款人限时归还全部贷款本息。否则银行将有权进行法律诉讼，并采取财产保全措施。也就是说，如果这位借款人办理的是房屋抵押贷款，那么他现在只有两条路：要么赶紧筹钱还上贷款，要么抵押的房子被银行没收。（上观）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikkntiak6530748.d.html</link>
+            <guid>2060472</guid>
+            <pubDate>Tue, 09 Mar 2021 02:45:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【乘联会：汽车芯片的断供风险逐步化解】乘联会表示，随着工信部装备司和国内电子企业全面推动芯片问题的缓解对策，作为技术极其成熟的汽车芯片，在这个难得的机会下，供给的新产能会逐步释放，加之国内受阻的芯片产能逐步恢复，车市销量受到芯片短缺的影响不应太大。随着国内企业逐步加大芯片的生产，相信汽车芯片的短缺在目前不会造成行业太大缺货影响，未来的影响也会逐步化解。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikknscsh9687635.d.html</link>
+            <guid>2060471</guid>
+            <pubDate>Tue, 09 Mar 2021 02:44:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【华邦电子：2月营收同比增超70% 预计NOR及SLC NAND供给吃紧将持续至下半年】华邦电子2月营收64.55亿元（新台币，下同），月减6.5%，年增73.25%；前2月累计营收133.58亿元，年增80.31%。华邦电子总经理陈沛铭表示，市场需求强劲，产能维持满载，第二季可望有较明显的涨价营收贡献，预期NOR及SLC NAND供给吃紧情况，将持续至下半年。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikkntiak6517874.d.html</link>
@@ -180,83 +252,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikknscsh9646711.d.html</link>
             <guid>2060395</guid>
             <pubDate>Tue, 09 Mar 2021 01:40:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A股油服板块走弱，准油股份跌停，通源石油、中曼石油、恒泰艾普、惠博普等集体下挫。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikknscsh9646456.d.html</link>
-            <guid>2060393</guid>
-            <pubDate>Tue, 09 Mar 2021 01:39:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[碳中和概念股大幅走低，指数开盘继续走低，沪指跌破3400点，跌近0.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikkntiak6488672.d.html</link>
-            <guid>2060391</guid>
-            <pubDate>Tue, 09 Mar 2021 01:38:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股汽车板块跌幅扩大，雅迪控股跌近7%，比亚迪股份、吉利汽车跌超4%，广汽集团跌超1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikkntiak6488589.d.html</link>
-            <guid>2060390</guid>
-            <pubDate>Tue, 09 Mar 2021 01:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[腾讯控股跌约3%，市值跌破6万亿港元，股价创1月以来新低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikknscsh9645781.d.html</link>
-            <guid>2060389</guid>
-            <pubDate>Tue, 09 Mar 2021 01:36:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本经济再生大臣西村康稔：希望企业继续进行前瞻性的投资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikkntiak6487442.d.html</link>
-            <guid>2060385</guid>
-            <pubDate>Tue, 09 Mar 2021 01:33:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[光伏概念开盘大涨，嘉寓股份、拓日新能、森特股份等个股涨停，维业股份、秀强股份、东方日升等个股快速拉升。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikknscsh9644716.d.html</link>
-            <guid>2060382</guid>
-            <pubDate>Tue, 09 Mar 2021 01:32:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小米集团跌幅扩大，现跌超4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikknscsh9644592.d.html</link>
-            <guid>2060379</guid>
-            <pubDate>Tue, 09 Mar 2021 01:32:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本将于今日发售2.50万亿日元，收益率为0.100%的五年期债券；日本将于3月16日发行5000亿日元债券。]]></title>
-            <guid>2060378</guid>
-            <pubDate>Tue, 09 Mar 2021 01:31:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本经济再生大臣西村康稔：日本的制造业非常强大，尤其是电子元器件和半导体以及汽车行业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikkntiak6486443.d.html</link>
-            <guid>2060372</guid>
-            <pubDate>Tue, 09 Mar 2021 01:30:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【小康股份与华为签署新能源汽车领域合作备忘录】近日，重庆小康工业集团股份有限公司与华为终端有限公司在深圳举行了合作备忘录签订仪式。双方将借助各自优势资源，包括技术积累、渠道网络和行业经验等，深化推动新能源汽车领域合作，共同打造高性能、智能化移动出行解决方案，给用户提供更加高效便捷的智能汽车产品和智慧移动出行体验，把数字世界带入每一辆车。双方将一起引领汽车产业进入智能化新时代，实现双方更大的商业价值。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikkntiak6485698.d.html</link>
-            <guid>2060367</guid>
-            <pubDate>Tue, 09 Mar 2021 01:27:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[三大股指低开，沪指跌0.18％，深成指跌0.44％，创业板跌0.43％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikknscsh9643179.d.html</link>
-            <guid>2060365</guid>
-            <pubDate>Tue, 09 Mar 2021 01:26:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股科网股走弱，美团跌近2%，小米集团跌超2%，京东跌近2%，腾讯控股跌1.63%，网易跌超3%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikknscsh9642619.d.html</link>
-            <guid>2060362</guid>
-            <pubDate>Tue, 09 Mar 2021 01:25:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国盛智科：目前部分订单已排到三季度】国盛智科日前接受调研时表示，数控机床行业下游需求旺盛，行业景气度持续向好，同时国产替代明显加速，尤其是数控机床产品订单呈快速上升态势。目前公司在手订单依然饱满，而且春节年后2月、3月整体订单情况继续向好并保持增长，目前部分订单已排到三季度。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-09/detail-ikknscsh9642578.d.html</link>
-            <guid>2060361</guid>
-            <pubDate>Tue, 09 Mar 2021 01:24:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
