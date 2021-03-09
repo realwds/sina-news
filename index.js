@@ -14,7 +14,7 @@ const timeout = setTimeout(
 
 const feed = new Feed({
   title: '新浪新闻',
-  description: '新浪全球实时财经新闻直播',
+  description: '新浪全球实时财经新闻',
   link: 'https://realwds.github.io/sina-news/',
   language: 'zh-CN',
   generator: 'sina news feed generator',
