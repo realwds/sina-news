@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 11 Mar 2021 01:56:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Mar 2021 01:59:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【初灵信息：公司产品CDN在高清视频业务方面有所涉及】初灵信息在互动平台表示，公司产品CDN在高清视频业务方面有所涉及，CDN技术对未来4K、8K高清视频推流能力有做提升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak8044592.d.html</link>
+            <guid>2063720</guid>
+            <pubDate>Thu, 11 Mar 2021 01:58:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[恒生科技指数持续走强，现涨3％。快手涨9％，京东涨超4％。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-11/detail-ikkntiak8041800.d.html</link>
