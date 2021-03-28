@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 28 Mar 2021 04:17:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Mar 2021 04:54:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[中国人民银行等部门：信用评级机构应强化防火墙机制，完善并严格落实隔离、回避、分析师轮换、离职人员追溯等制度，有效识别、防范和消除利益冲突，确保评级作业部门与市场部门之间、评级业务与非评级业务之间的隔离。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9636982.d.html</link>
+            <guid>2093417</guid>
+            <pubDate>Sun, 28 Mar 2021 04:54:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海文旅局与临港新片区签署协议 将南汇新城建成世界级文旅先锋地】今日，上海市文化和旅游局与临港新片区管委会签署战略合作协议。其中，合作协议包括，以“旅”兴城，塑造世界级旅游目的地，建设世界级目的地、构建旅游产业体系、整合旅游生态资源；以“文”塑城，打造世界级文旅先锋地。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2793973.d.html</link>
+            <guid>2093415</guid>
+            <pubDate>Sun, 28 Mar 2021 04:50:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[中国地震台网正式测定：3月28日12时32分在新疆阿克苏地区库车市发生3.0级地震，震源深度10千米]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9633594.d.html</link>
+            <guid>2093413</guid>
+            <pubDate>Sun, 28 Mar 2021 04:47:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼警方：确认望加锡教堂爆炸事件的袭击者为独自一人行动。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2779776.d.html</link>
+            <guid>2093409</guid>
+            <pubDate>Sun, 28 Mar 2021 04:17:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【山东明确110个大数据创新应用场景】山东日前出台《山东省大数据创新应用突破行动方案》，明确了第一批110个创新应用场景，覆盖公共服务、社会治理、科学决策、要素配置、数据支撑等5大领域，义务教育入学网上办、医保电子凭证、电子身份证“全省通行”等场景均在名单中。]]></title>
             <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9620865.d.html</link>
@@ -305,18 +329,6 @@
             <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9427958.d.html</link>
             <guid>2092706</guid>
             <pubDate>Sat, 27 Mar 2021 20:07:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【规上工业企业成绩单：前两个月超九成行业盈利，高端制造业利润增近59倍】全国规模以上工业企业1至2月份成绩单出炉。国家统计局3月27日发布的数据显示，1至2月份，全国规模以上工业企业实现利润11140.1亿元，同比增长1.79倍，比2019年1至2月份增长72.1%，两年平均增长31.2%，延续了去年下半年以来较快增长的良好态势。（华夏时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikknscsk2562135.d.html</link>
-            <guid>2092699</guid>
-            <pubDate>Sat, 27 Mar 2021 18:54:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【创开航以来最高纪录，大兴机场日实际起降航班突破800架次】据华北空管局运管中心统计数据，3月26日，北京大兴国际机场实际起降各类航班810架次，首次突破800架次，为大兴机场开航以来单日起降航班最高纪录。3月28日，换季航班计划执行首日，预计首都机场进出港航班1079架次，大兴机场进出港航班900架次。（北京青年报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-03-28/detail-ikkntiam9387927.d.html</link>
-            <guid>2092695</guid>
-            <pubDate>Sat, 27 Mar 2021 18:09:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
