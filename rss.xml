@@ -4,11 +4,47 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 02 Apr 2021 04:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Apr 2021 04:56:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【越南国会于4月2日上午通过免任阮春福总理职务决议】越南国会4月2日上午以92.92％的支持率通过免任阮春福越南政府总理职务决议。该决议自越南国会选举产生新总理之后生效（预计于4月5日举行）。据越南国会办公室称，免任后的阮春福将作为候选人参加新一届越南国家主席的选举。目前，尚未宣布新一届越南政府总理的代职人选。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa4105233.d.html</link>
+            <guid>2101142</guid>
+            <pubDate>Fri, 02 Apr 2021 04:47:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【“老虎”伍兹车祸的原因已经确定 但细节尚未公开】据美国有线电视新闻网报道，洛杉矶郡治安官亚历克斯·维拉努埃瓦（Alex Villanueva）说，“老虎”伍兹2月份车祸的原因已经确定，但在这位高尔夫传奇人物给予许可之前，调查的细节不会公开。 今年45岁的伍兹2月23日在南加州撞车，腿部严重受伤。   （中国日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa4102224.d.html</link>
+            <guid>2101141</guid>
+            <pubDate>Fri, 02 Apr 2021 04:43:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【公安机关将保持对侮辱英雄烈士等行为的打击震慑】公安部4月2日召开新闻发布会，公安部新闻发言人李蓓表示，公安机关依法依规严厉打击诋毁、贬损、侮辱英雄烈士的违法犯罪行为，坚决维护英雄烈士的名誉和荣誉，坚决守护和捍卫英烈尊严。近期，江苏南京、北京海淀等地公安机关对网民“蜡笔小球”、潘某等人在网络上歪曲事实、诋毁贬损卫国戍边英雄官兵等违法犯罪行为依法予以严厉打击。  （新华视点）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmxzfmk1242958.d.html</link>
+            <guid>2101140</guid>
+            <pubDate>Fri, 02 Apr 2021 04:42:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【民生银行部门中层“起立”竞聘上岗 约20位部门、分行一把手变动刚刚】 今年以来，民生银行新设和撤销了少数总行部门及岗位，并对总行部门中层干部实行“全体起立”，重新进行公开竞聘，同时总行部室、分行领导层面的优化调整也加快推进，目前已有约20位总行部门、分行一把手出现更替，还有从分行部门总经理升任总行部门总经理助理的人员。（21世纪经济报道）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa4097736.d.html</link>
+            <guid>2101138</guid>
+            <pubDate>Fri, 02 Apr 2021 04:38:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【台媒称台湾列车出轨36人无生命迹象】据台湾媒体报道，今天上午9点多钟，台铁太鲁阁号408次列车，在台湾花莲大清水隧道发生出轨事故。据台湾“中时新闻网”最新报道，脱轨事故死伤扩大，已有36人没有生命迹象。   （央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmxzfmk1227554.d.html</link>
+            <guid>2101050</guid>
+            <pubDate>Fri, 02 Apr 2021 04:23:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据台媒科技新报报道，网通芯片厂商瑞昱近日发通知函称，由于供应链交期延长与交货短缺，公司的交货期延长到32周或以上。另外在未来接单后也将暂不安排交期。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmxzfmk1227210.d.html</link>
+            <guid>2101047</guid>
+            <pubDate>Fri, 02 Apr 2021 04:22:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【3月全球铜冶炼活动跌至至少五年来最低水平】铜厂卫星监测数据显示，3月全球铜冶炼活动跌至至少五年来的最低水平，主要生产国中国的活动因供应短缺而未能在春节假期后得到恢复。卫星服务SAVANT和经纪商Marex Spectron周四在一份联合声明中表示，因防疫封锁而遭受打击的其他地区未能弥补中国活动的下滑。专注于地理空间数据的Earth-i公司2019年年底推出了SAVANT服务，跟踪100多家冶炼厂，这些冶炼厂占全球产量的80%-90%。3月份，其全球铜冶炼厂活动指数从一个月前的45.8降至平均39.8。 这是该数据有史以来最低的月度平均值，该平均值可以追溯到2016年3月。根据SAVANT的指数，50表明冶炼厂的运营处于过去12个月的平均水准。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmxzfmk1221830.d.html</link>
@@ -329,59 +365,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmxzfmk1107808.d.html</link>
             <guid>2100221</guid>
             <pubDate>Fri, 02 Apr 2021 02:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【 教育部：每日22:00到次日8:00不得为未成年人提供游戏服务】针对外在因素影响学生睡眠问题，教育部印发《关于进一步加强中小学生睡眠管理工作的通知》，要求作业、校外培训、游戏都要为学生睡眠让路。小学生在校内基本完成书面作业、中学生在校内完成大部分书面作业。校外线下培训结束时间不得晚于20:30，线上直播类培训结束时间不得晚于21:00。各地采用技术手段加强监管，每日22:00到次日8:00不得为未成年人提供游戏服务。]]></title>
-            <guid>2100220</guid>
-            <pubDate>Fri, 02 Apr 2021 02:01:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【转转集团宣布融资3.9亿美金 系二手电商领域最大单笔现金融资】转转集团今日宣布已于春节前获得先后来自于GBA大湾区基金、青樾基金的共计3.9亿美元投资。这是自2020年5月转转和找靓机战略合并组成新的转转集团后获得的首笔融资，也是目前国内二手电商领域最大的单笔现金融资。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa3961718.d.html</link>
-            <guid>2100211</guid>
-            <pubDate>Fri, 02 Apr 2021 01:58:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[伊朗政府发言人拉比埃近日表示，美国政府迟迟不解除对伊制裁，将不利于重回伊朗核问题全面协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa3960899.d.html</link>
-            <guid>2100209</guid>
-            <pubDate>Fri, 02 Apr 2021 01:57:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【日美首脑会谈延期一周至16日举行】据《日本经济新闻》报道，原定4月9日举行的日美首脑会谈因美方原因延期一周至16日举行。 (环球网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa3957296.d.html</link>
-            <guid>2100206</guid>
-            <pubDate>Fri, 02 Apr 2021 01:53:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【快讯：稀土永磁板块走弱】章源钨业跳水一度跌近8%，盛和资源、包钢股份、五矿稀土、广晟有色、北矿科技等纷纷走低。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa3957017.d.html</link>
-            <guid>2100205</guid>
-            <pubDate>Fri, 02 Apr 2021 01:53:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[顺控发展再度涨停，收获14连扳，换手率近15%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmxzfmk1095456.d.html</link>
-            <guid>2100197</guid>
-            <pubDate>Fri, 02 Apr 2021 01:49:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中芯国际A股涨近6%，消息面上，中芯国际4月1日后或全线涨价，包括未交付订单。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa3948936.d.html</link>
-            <guid>2100195</guid>
-            <pubDate>Fri, 02 Apr 2021 01:45:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[日本财务大臣麻生太郎：并不认为Archegos事件将影响金融公司的健康。野村证券、三菱日联的损失不太可能导致重大问题。 日本金融厅需要与日本央行分享有关Archegos事件造成的影响的信息。 正在监控Archegos事件相关情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmxzfmk1089533.d.html</link>
-            <guid>2100193</guid>
-            <pubDate>Fri, 02 Apr 2021 01:43:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【工信部召开农机装备高质量发展现场推进会】昨日，工业和信息化部在河南省洛阳市组织召开农机装备高质量发展现场推进会，工信部副部长辛国斌强调，要提升农机装备质量管控能力，完善农机装备标准体系，稳步提升产品性能品质；要推进智能农机发展和无人农业作业试点，统筹好发展和安全，强化智能农机与智慧农业、云农场建设的协同发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-02/detail-ikmyaawa3947066.d.html</link>
-            <guid>2100191</guid>
-            <pubDate>Fri, 02 Apr 2021 01:42:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
