@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 05 Apr 2021 04:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Apr 2021 04:55:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[市场消息：软银将牵头向基因信息公司Invitae Corp投资12亿美元，双方将在周一发布声明。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3866205.d.html</link>
+            <guid>2105510</guid>
+            <pubDate>Mon, 05 Apr 2021 04:41:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【特斯拉空头GLJ Research：尽管在中国有工厂 特斯拉的交付量已经不再增长】GLJ Research分析师Gordon Johnson认为，尽管特斯拉在中国的工厂已经全面开工，而且还进行了多次降价，但特斯拉的交付量“基本上”已经不再增长。他认为，将2021年第一季度与2020年第一季度进行比较已经“无关紧要”，恰当的比较应该是和2020年第四季度，那时特斯拉在中国的降价行动已经全面展开，在中国的生产也已经成熟。这位分析师预计，随着“开盘后可能出现的上涨”，那些“精明的投资者”将会削弱特斯拉的股价。该分析师对该股票的评级是卖出。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3865853.d.html</link>
+            <guid>2105509</guid>
+            <pubDate>Mon, 05 Apr 2021 04:40:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[俄“BCS全球投资”公司战略投资部门首席专家表示，俄罗斯可能需要4-5年时间才能脱离美元进行结算，所有条件均已呈现。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6712206.d.html</link>
+            <guid>2105505</guid>
+            <pubDate>Mon, 05 Apr 2021 04:28:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼国家石油公司发言人：巴隆干炼油厂火灾后逐步启动，已于3月31日开始运营。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6705702.d.html</link>
+            <guid>2105476</guid>
+            <pubDate>Mon, 05 Apr 2021 04:19:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【微软将美国办公室的重开时间由7月改为最早9月】据The Verge消息，微软证实自己计划中的办公室重开时间将会由原来的7月改为最早9月。据发言人称，此举是“持续咨询健康、数据专家”后得出的结果。在发给员工的电邮中执行副总裁Kurt DelBene也表示，这么做是为了给员工的夏季安排提供“额外的弹性”，并确认各地主管在判断所在地存在风险时亦可进一步延后重开日期。（界面）]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3843069.d.html</link>
@@ -234,60 +258,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3641399.d.html</link>
             <guid>2105138</guid>
             <pubDate>Mon, 05 Apr 2021 00:00:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据路透调查：24位经济学家中，有23位经济学家预计澳洲联储4月6日利率决议中将维持利率在0.1%不变，1位经济学家预测澳洲联储将降息5个基点至0.05%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6497063.d.html</link>
-            <guid>2105136</guid>
-            <pubDate>Sun, 04 Apr 2021 23:59:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【据悉瑞信考虑在迫在眉睫的高管调整中更换首席风险官】知情人士透露，在Archegos爆仓事件可能导致瑞信损失数十亿美元之际，瑞信高层正在讨论更换首席风险官Lara Warner，而首席执行官Thomas Gottstein将继续留任。其中两位知情人士称，瑞信将向投资者通报Archegos爆仓事件的最新影响，其中包括投资银行负责人Brian Chin等高管的去向。知情人士称，瑞信计划评估投资银行旗下的大宗经纪业务。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3638613.d.html</link>
-            <guid>2105135</guid>
-            <pubDate>Sun, 04 Apr 2021 23:57:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【58同城、安居客发布《2021第一季度楼市总结》：二手房市场挂牌均价保持稳定】58同城、安居客近日发布《2021第一季度楼市总结》。其中指出，在“房住不炒”“稳地价、稳房价、稳预期”政策定调下，楼市的调控政策保持连续性和稳定性。2021年一季度，新房月度访问热度上升，购房者信心指数基本呈上涨趋势，3月份达116.0；二手房市场上，一季度找房热度同比上涨23.7%，挂牌均价保持稳定；租房访问热度逐月上涨，一季度重点城市租房访问热度整体同比上涨21.2%，北京租房访问热度领先。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3638521.d.html</link>
-            <guid>2105134</guid>
-            <pubDate>Sun, 04 Apr 2021 23:57:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【脸书被曝超5亿用户信息遭泄露 或涉及106个国家和地区】据今日俄罗斯网站报道，美国社交媒体平台脸书有5.33亿用户数据遭泄露，其中包含一些知名人士的信息。报道援引美国商业内幕网站的消息称，一个低级别的黑客论坛3日曝光了5.33亿脸书用户的个人数据，这些用户涉及106个国家和地区，泄露的信息包括用户在脸书的账户名、位置、生日以及电子邮件地址等。不过，脸书公司在3日的一份声明中称，上述数据来自2019年发生的信息泄露事件，当年8月已经进行了修复。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3638337.d.html</link>
-            <guid>2105133</guid>
-            <pubDate>Sun, 04 Apr 2021 23:56:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【北京新增1例境外输入确诊】4月4日0时至24时，北京无新增本地确诊病例、疑似病例和无症状感染者；新增1例境外输入确诊病例，无新增疑似病例和无症状感染者。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3635474.d.html</link>
-            <guid>2105132</guid>
-            <pubDate>Sun, 04 Apr 2021 23:53:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【4个月100%签约100%腾空搬迁，上海黄浦创旧改新样板】4月4日，记者从黄浦区获悉，近日，黄浦区的501街坊及504街坊开创了单位征收“新速度”。通过创新思路、改进方式，仅用4个月时间，33家单位的100%签约和100%腾空搬迁便已完成]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6489394.d.html</link>
-            <guid>2105131</guid>
-            <pubDate>Sun, 04 Apr 2021 23:49:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【钢坯最高报价已突破5000元/吨大关 再创历史新高】唐山钢坯价格持续大涨，4月2日一天上涨140元/吨，最高报价已突破5000元/吨大关，再创历史新高，出现坯价和钢价倒挂的怪象。由于市场需求旺盛，而资源又非常紧张，已有多家板带加工企业被迫停产。 (期货日报)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3630764.d.html</link>
-            <guid>2105129</guid>
-            <pubDate>Sun, 04 Apr 2021 23:46:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据健康广东：4月4日0-24时，广东全省无新增确诊病例。新增境外输入无症状感染者4例，广州报告1例，来自印度尼西亚；深圳报告1例，来自南非；佛山报告2例，分别来自法国和伊拉克。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmxzfmk3626681.d.html</link>
-            <guid>2105128</guid>
-            <pubDate>Sun, 04 Apr 2021 23:40:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【人民财评：消费爱国心炒鞋 邪气必须狠刹】近日，由于一些跨国企业无理粗暴抵制新疆棉花，遭到广大爱国网友谴责，一些洋品牌球鞋因此受到市场冷遇。广大网友纷纷用脚投票，支持国货，下单李宁、安踏等知名国产品牌。这本是很正常的事情。但是，一些炒鞋客“捕捉”到了商机，仿佛闻到了“血腥”，趁机转战国产球鞋市场，兴风作浪。炒鞋客在商言商没有错，但是不能为了大发横财，就扔掉了伦理，突破了底线。这种无底线炒鞋，不仅导致国产球鞋价格飙升，特别是一些爆款鞋出现了一鞋难求的现象，消费者要么买不起，要么买不到；还伤害了广大消费者的爱国情怀。从某种程度上讲，可以说是在消费广大消费者的爱国心。鞋是用来穿的，不是用来炒的。遏制这种疯狂的做法和歪风邪气，监管部门应该坚决出手，通过法治手段为这轮炒鞋热降温。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-05/detail-ikmyaawa6479677.d.html</link>
-            <guid>2105127</guid>
-            <pubDate>Sun, 04 Apr 2021 23:35:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
