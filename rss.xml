@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 11 Apr 2021 04:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Apr 2021 04:52:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【沪郊打造超大城市乡村别样风景】上海近日发布乡村振兴新一轮发展目标，将进一步发挥超大城市乡村功能，增强乡村发展内生动力，积极探索有效实现形式和路径，使乡村成为城市核心功能重要承载地以及提升城市能级和核心竞争力的战略空间。上海正在加快打造一批“颜值高、生态优、产业强、服务全、农民富”的特色品牌乡村，打造超大城市乡村别样风景。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmyaawa9030082.d.html</link>
+            <guid>2114645</guid>
+            <pubDate>Sun, 11 Apr 2021 04:40:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据英国金融时报：波兰部长称投票否决欧盟复苏基金是“自杀式行为”。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmxzfmk6166405.d.html</link>
@@ -261,24 +267,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmyaawa8966344.d.html</link>
             <guid>2114014</guid>
             <pubDate>Sat, 10 Apr 2021 19:19:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【德国即将修改《传染病防治法》 将制定全国统一的防疫措施】4月10日，德国联邦政府发言人德梅尔表示，联邦内阁将在下周二至周三修改《传染病防治法》，联邦议院将在下周三至周五批准新的法案，原定于下周一举行的联邦—州防疫峰会已被取消，新的《传染病防治法》将制定全国统一的防疫措施。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmxzfmk6107292.d.html</link>
-            <guid>2114013</guid>
-            <pubDate>Sat, 10 Apr 2021 19:10:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Epic在澳洲诉苹果反垄断案被法院宣布搁置三个月】据澳洲Gizmodo报道，澳大利亚一名法官裁定，Epic在澳大利亚对苹果的诉讼将暂时中止，因为双方正在为美国的诉讼大战做准备。苹果曾要求澳法院永久中止在澳大利亚的诉讼，认为美国和澳大利亚的案件非常相似，应该在美国的原管辖区裁决。两家公司争夺的是Epic的大逃杀游戏《堡垒之夜》，以及苹果收取的分成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmxzfmk6106438.d.html</link>
-            <guid>2114010</guid>
-            <pubDate>Sat, 10 Apr 2021 18:45:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据英国天空新闻：英国首相约翰逊将不会出席菲利普亲王的葬礼。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-11/detail-ikmxzfmk6105991.d.html</link>
-            <guid>2114009</guid>
-            <pubDate>Sat, 10 Apr 2021 18:36:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
