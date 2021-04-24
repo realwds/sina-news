@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 24 Apr 2021 04:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Apr 2021 04:52:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【奈飞联席CEO哈斯廷斯去年薪酬为4320万美元#】 香港《信报》4月24日消息，美国视频流媒体服务提供商Netflix日前披露，Netflix联席CEO里德·哈斯廷斯去年薪酬为4320万美元。另一名联席CEO泰德·萨兰多思去年薪酬为3930万美元。两者均有所上升。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1525997.d.html</link>
+            <guid>2139946</guid>
+            <pubDate>Sat, 24 Apr 2021 04:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东自贸区试验区珠海横琴新区片区6年累计落地510项改革创新措施】24日从广东自贸区试验区珠海横琴新区片区获悉，横琴片区开发建设6年来，创新思路、凝聚力量、突出特色，创新成果不断涌现，特别是在制度创新方面，横琴片区以制度创新为核心，发挥改革创新拓荒牛的精神，在改革系统集成协同高效上率先试、勇实践，累计落地510项改革创新措施。（中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8665812.d.html</link>
+            <guid>2139945</guid>
+            <pubDate>Sat, 24 Apr 2021 04:47:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【新加坡总理李显龙：用创新及科技实现减排目标】23日晚，新加坡总理李显龙以视频形式参加领导人气候峰会，并发表讲话。李显龙表示，面对气候变化的威胁，新加坡必须不断创新并广泛使用科技，克服国土面积和资源的局限，实现减低碳排放量的目标。李显龙透露，新加坡计划在2025年之前把太阳能产量增至原来的四倍。新加坡将启用全球最大浮动太阳能系统，每年可减少3.3万吨二氧化碳排放量。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8658143.d.html</link>
@@ -299,12 +311,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmxzfmk8617225.d.html</link>
             <guid>2139345</guid>
             <pubDate>Fri, 23 Apr 2021 21:50:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  强生回应美国疾控中心的决定：将继续与疾控中心和食品药品监督管理局合作。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-24/detail-ikmyaawc1476053.d.html</link>
-            <guid>2139341</guid>
-            <pubDate>Fri, 23 Apr 2021 21:27:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
