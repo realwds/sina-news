@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 25 Apr 2021 04:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Apr 2021 04:54:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【华为申请注册“HarmonyOS Connect”图形商标】数据显示，近日，华为技术有限公司申请注册多个“HarmonyOS Connect”图形商标及“鸿蒙智联”商标，国际分类涉及医疗器械、运输工具、科学仪器等，目前商标状态均为商标申请中。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1677948.d.html</link>
+            <guid>2141352</guid>
+            <pubDate>Sun, 25 Apr 2021 04:35:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【上海：所有商品房上市销售，至少在认购前三天公示认购地点等】近日，上海市房地产交易中心网站“网上房地产”显示，近期，上海将集中上市一批新建商品住房，共47个项目近1.4万套房源，目前已完成价格备案。记者从上海市房管局获悉，针对此前出现的认购乱象，市房地产行业主管部门进一步加强了商品房销售秩序监管，将认购时间由原来的5天延长至7天，并要求所有上市销售项目至少在认购前三天，通过“网上房地产”公示认购地点、时间等信息。此外，凡发现开发企业设置障碍“筛选”客户等违规行为，加大整治力度。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8816527.d.html</link>
+            <guid>2141351</guid>
+            <pubDate>Sun, 25 Apr 2021 04:23:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【第四届数字中国建设峰会在福州举行 展望数字中国未来】由国家互联网信息办公室、国家发展和改革委员会、工业和信息化部、国务院国有资产监督管理委员会、福建省人民政府共同主办的第四届数字中国建设峰会25日在福建省福州市开幕。峰会主要内容包括开幕式、主论坛、分论坛、成果展览会、创新大赛、政策发布、项目对接签约等七个环节，以及“有福之州·对话未来”“闽江夜话”等一系列交流活动，展望数字中国未来。]]></title>
             <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmyaawc1675349.d.html</link>
@@ -348,12 +360,6 @@
             <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8761146.d.html</link>
             <guid>2140481</guid>
             <pubDate>Sat, 24 Apr 2021 23:17:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家能源局：一季度新增发电装机2351万千瓦】国家能源局获悉透露，一季度，全国基建新增发电装机容量2351万千瓦，比三峡电站2250万千瓦的总装机容量还要大，比上年同期多投产996万千瓦。其中，水电109万千瓦、火电1060万千瓦、核电115万千瓦、风电526万千瓦、太阳能发电533万千瓦。可再生能源发电新增装机占比超过50%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-04-25/detail-ikmxzfmk8760535.d.html</link>
-            <guid>2140478</guid>
-            <pubDate>Sat, 24 Apr 2021 23:10:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
