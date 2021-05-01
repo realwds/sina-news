@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 01 May 2021 04:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 May 2021 04:51:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【古特雷斯：不平等现象阻碍人类实现在2030年前消灭艾滋病的目标】联合国秘书长古特雷斯在30日发布的一份报告中说，不平等正在阻碍人类实现在2030年前消灭艾滋病的目标，他呼吁国际社会通过消除不平等现象重回这一目标。根据这份报告，2019年全球新增艾滋病毒感染者170万、与艾滋病相关的死亡人数69万，均大大超过2016年制定的2020年双50万目标。艾滋病防治在某些地区和人群中取得重大进展，而在其他地区则存在不作为现象，艾滋病防治领域的不平等是导致整体不达标的主要原因。不平等因素涉及性别、年龄、民族、性取向、收入水平、感染者身份等。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2909126.d.html</link>
+            <guid>2153883</guid>
+            <pubDate>Sat, 01 May 2021 04:49:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【拜登称美国铁路建设不能落后】当地时间4月30日，美国总统拜登在庆祝美国铁路客运公司（Amtrak）50周年庆祝活动上称，美国目前的基础设施远远落后于世界上的部分国家和地区，需要重新建设铁路系统。拜登表示，中国高铁的总长度和时速均位于世界前列，美国不能落后，提供快速、安全、可靠、清洁的交通是美国基础设施建设的一部分。（央视新闻客户端）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmyaawc2903575.d.html</link>
+            <guid>2153878</guid>
+            <pubDate>Sat, 01 May 2021 04:13:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：印度向各邦发放8870亿印度卢比抗疫基金。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmm0038063.d.html</link>
@@ -317,17 +329,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmk9986454.d.html</link>
             <guid>2153481</guid>
             <pubDate>Fri, 30 Apr 2021 20:46:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家航空航天局（NASA）要求SpaceX停止建造月球飞船的合同，以等待竞争对手（就登月合同）向美国政府问责署发起挑战的结果。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-01/detail-ikmxzfmk9986418.d.html</link>
-            <guid>2153479</guid>
-            <pubDate>Fri, 30 Apr 2021 20:44:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：05月01日04时19分在广东河源市源城区（北纬23.74度，东经114.61度）发生2.8级地震，震源深度6千米。（新华视点）]]></title>
-            <guid>2153468</guid>
-            <pubDate>Fri, 30 Apr 2021 20:34:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
