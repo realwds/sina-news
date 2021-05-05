@@ -4,11 +4,188 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 05 May 2021 01:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 04:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【日本大阪、兵库两地医疗资源超负荷运转】5月4日，据日本NHK消息，在关西2府4县公布的新增确诊病例中，大阪新增确诊病例884例、兵库新增337例、京都新增113例、奈良新增61例、滋贺新增53例、和歌山新增22例。大阪府知事吉村洋文对于持续的医疗资源供应不足危机表示，目前难以解除在大阪府实施的紧急事态宣言。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0644349.d.html</link>
+            <guid>2157417</guid>
+            <pubDate>Wed, 05 May 2021 04:08:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  美国FDA接受韩国 GC制药公司的生物制剂许可申请。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3503343.d.html</link>
+            <guid>2157414</guid>
+            <pubDate>Wed, 05 May 2021 04:03:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【叙利亚媒体：以色列空袭拉塔基省民用设施，导致1人死亡6人受伤】俄罗斯卫星通讯社5月5日援引据叙利亚国家通讯社消息报道，以色列空军飞机对叙利亚拉塔基省的一个塑料制品仓库实施空袭，已经造成1人死亡，6人受伤。  （环球网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0642685.d.html</link>
+            <guid>2157412</guid>
+            <pubDate>Wed, 05 May 2021 03:59:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【波音737MAX因电气接地问题面临新障碍】两名知情人士表示，美国航空安全官员已经要求波音提供新的分析和文件，说明737MAX飞机上的多个子系统不会受到4月首次披露的三个区域电气接地问题的影响。报道指出，这给波音737MAX何时能获美国联邦航空管理局（FAA）批准复飞增添了不确定性。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0642490.d.html</link>
+            <guid>2157410</guid>
+            <pubDate>Wed, 05 May 2021 03:57:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【日产出售全部戴姆勒股票】日产汽车发布消息称，将出售其保有的全部德国戴姆勒股票，计划6月底前出售给机构投资者，出售额将达到11亿4900万欧元。法国雷诺已于3月抛售戴姆勒股票，日法汽车联盟保有的戴姆勒股票将归零。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3499636.d.html</link>
+            <guid>2157403</guid>
+            <pubDate>Wed, 05 May 2021 03:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【全国铁路迎来返程高峰：5月5日预计发送旅客1720万人次】从中国国家铁路集团有限公司获悉，5月4日，全国铁路发送旅客1448.6万人次，开行旅客列车11099列，其中加开旅客列车1404列。5月5日，全国铁路迎来返程客流高峰，预计发送旅客1720万人次，较2019年同期增长30%，预计加开旅客列车1736列。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3499470.d.html</link>
+            <guid>2157402</guid>
+            <pubDate>Wed, 05 May 2021 03:40:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[泰国4月消费者价格同比上涨3.41%，预期2.50%。泰国4月居民消费价格环比上涨1.38%，预期0.79%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0638355.d.html</link>
+            <guid>2157398</guid>
+            <pubDate>Wed, 05 May 2021 03:34:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股猪肉概念股早盘尾段走高，雨润食品涨8.4%，中粮家佳康涨3.2%，万洲国际涨0.9%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3497764.d.html</link>
+            <guid>2157397</guid>
+            <pubDate>Wed, 05 May 2021 03:31:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2025年大运河、长城、长征、黄河等国家文化公园建设基本完成】记者日前了解到，根据国家发展改革委等7部门印发的《文化保护传承利用工程实施方案》，到2025年，大运河、长城、长征、黄河等国家文化公园建设基本完成，打造形成一批中华文化重要标志，相关重要文化遗产得到有效保护利用，一批重大标志性项目综合效益有效发挥，承载的中华优秀传统文化传承发展水平显著提高。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3497737.d.html</link>
+            <guid>2157396</guid>
+            <pubDate>Wed, 05 May 2021 03:31:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【贝鲁特港爆炸案调查官发布司法令 期望他国提供相关卫星图像】当地时间5月4日，据黎巴嫩当地媒体报道，黎巴嫩贝鲁特港爆炸案首席调查官比塔尔发布了13项司法命令，希望在黎巴嫩上空拥有卫星的国家提供爆炸现场的卫星图像，以便继续推进案件的调查工作。去年8月4日，贝鲁特港发生剧烈爆炸，起因是2750吨高爆炸性硝酸铵起火导致，这批化学物质已在港口的仓库中存放了6年之久。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0637602.d.html</link>
+            <guid>2157395</guid>
+            <pubDate>Wed, 05 May 2021 03:30:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ark基金出售百度、Square、Pure Storage以及Exact Sciences股票。买入Skillz, Palantir以及Recursion Pharmaceuticals。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3496480.d.html</link>
+            <guid>2157393</guid>
+            <pubDate>Wed, 05 May 2021 03:24:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【一季度海南利用外资大幅增长】今年一季度，海南实际利用外资和新设立外商投资企业均实现数倍增长，共有66个国家和地区在海南省新设外资企业。据统计，今年一季度全省新设立外商投资企业419家，同比增长525.37%；实际利用外资5.558亿美元，同比增长432.98%。（海南日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3495763.d.html</link>
+            <guid>2157391</guid>
+            <pubDate>Wed, 05 May 2021 03:20:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国恒大前4个月销售额2213亿元，完成年目标29.5%】2021年前4个月，中国恒大共实现合约销售金额2213亿元，同比增长4.1%；合约销售面积2601.6万平方米，同比增长9.7%。以中国恒大2021年设定的年销售目标7500亿元来计算，目前已完成29.5%。恒大集团董事局副主席、总裁夏海钧在业绩会上表示，恒大在2020年的去化率是65%左右，如果按照这个去化率来预估2021年，可以实现8000亿元到9000亿元的销售额。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0633873.d.html</link>
+            <guid>2157389</guid>
+            <pubDate>Wed, 05 May 2021 03:10:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据今日俄罗斯：由于澳大利亚政府禁止从印度回国的公民入境，约1万澳洲民众滞留印度。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3493439.d.html</link>
+            <guid>2157387</guid>
+            <pubDate>Wed, 05 May 2021 03:08:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【真·3D打印！荷兰首个3D打印房屋被租出】当地时间4月30日，荷兰首个3D打印房屋被顺利租给一对夫妇。房子的外立面可以清晰地看到一层一层的混凝土纹路，整个房屋的打印过程就像制作一个巨大的裱花蛋糕，巨大的喷头将混凝土整齐地排列打印，并一层层叠加形成墙体。据了解，这座建筑是荷兰一个3D打印房社区的样板间，未来将有另外四座3D打印房相继问世。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0633123.d.html</link>
+            <guid>2157386</guid>
+            <pubDate>Wed, 05 May 2021 03:07:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【今年全国将发放1000万张职业培训券】记者近日从人力资源和社会保障部获悉，今年我国将大力推行职业培训券的发放和使用。人社部将依托电子社保卡，为符合条件的劳动者发放具有认证结算等功能、同时精准对接培训资源的电子凭证。计划全年发券1000万张，用券100万张以上。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3491770.d.html</link>
+            <guid>2157385</guid>
+            <pubDate>Wed, 05 May 2021 03:00:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【七国集团外长会在英国伦敦举行】4日，七国集团外长会在英国伦敦举行。英国外交部表示，4日会议讨论的主要议题是与俄罗斯的关系、伊朗核问题全面协议、叙利亚战争等。按计划，七国集团外长会将持续两天。本次外长会议被视为是将于6月在英国举行的七国集团峰会的预热。分析人士认为，美欧双方希望以此为契机，弥合美国前总统特朗普执政时期留下的分歧与裂痕，重塑七国集团影响力。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3489659.d.html</link>
+            <guid>2157383</guid>
+            <pubDate>Wed, 05 May 2021 02:51:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股汽车板块走势分化，恒大汽车跌6%，比亚迪股份跌1.5%；东风集团股份涨4.5%，广汽集团涨1.05%。]]></title>
+            <guid>2157382</guid>
+            <pubDate>Wed, 05 May 2021 02:48:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【日本政府计划延长紧急事态宣言期限】据日本《产经新闻》，相关人士透露，日本政府考虑延长将于11日到期的紧急事态宣言。日本首相菅义伟或将于5日与经济再生担当大臣西村康稔、厚生劳动大臣田村宪久等相关阁僚商讨后作出最终判断。同时，大阪府也正在进行协调，拟要求政府延长宣言期限。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3487843.d.html</link>
+            <guid>2157381</guid>
+            <pubDate>Wed, 05 May 2021 02:42:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标普：经济复苏增强了澳新银行的信誉。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0627124.d.html</link>
+            <guid>2157379</guid>
+            <pubDate>Wed, 05 May 2021 02:38:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股内房板块盘中走高，融创中国涨近4%，中国奥园涨3.2%，华润置地、碧桂园、中国恒大涨超2%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0626856.d.html</link>
+            <guid>2157377</guid>
+            <pubDate>Wed, 05 May 2021 02:36:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【抖音及其海外版蝉联全球移动应用（非游戏）下载榜冠军】Sensor Tower 商店情报数据显示，2021年4月抖音及其海外版TikTok以5900万下载量，蝉联全球移动应用（非游戏）下载榜冠军。Facebook以5300万次下载排名第二。排名前五的另外3款应用依次是Instagram、WhatsApp 和 Messenger。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3486564.d.html</link>
+            <guid>2157375</guid>
+            <pubDate>Wed, 05 May 2021 02:35:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【交通运输部：五一期间全国水路客运累计发送旅客超570万人次】交通运输部海事局消息，五一期间，我国水路客运整体平稳有序，累计发送旅客570多万人次，较2020年同期翻一番，日均发送旅客110多万人次。水路出行以水上旅游观光为主，旅客人数呈现中间高、两边低的特点，其中5月3日达到高峰，当日发送旅客145万人次。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0623666.d.html</link>
+            <guid>2157367</guid>
+            <pubDate>Wed, 05 May 2021 02:21:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：澳大利亚政府暂停为富人快速减税的计划。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3482924.d.html</link>
+            <guid>2157365</guid>
+            <pubDate>Wed, 05 May 2021 02:18:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  港股欧舒丹早盘逆市拉升，盘中暴涨13%，高见26.35港元，刷新历史新高。截止发稿，涨11.61%，报25.95港元，成交额1360.23万港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0623001.d.html</link>
+            <guid>2157364</guid>
+            <pubDate>Wed, 05 May 2021 02:18:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【布林肯拒绝“中美冷战”说法】当地时间4日，美国国务卿安东尼•布林肯在接受英国《金融时报》采访时称，他不认同有关中美两国正在陷入“冷战”的说法。他同时表示，因为情况复杂，他不愿意给中美关系贴标签；美国也没有要求其他国家选边站队。（CGTN）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3479654.d.html</link>
+            <guid>2157317</guid>
+            <pubDate>Wed, 05 May 2021 02:04:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【2021年4月全球热门移动应用下载量TOP10公布】Sensor Tower 商店情报数据显示，2021年4月抖音及其海外版TikTok以5900万下载量，蝉联全球移动应用（非游戏）下载榜冠军。其中，抖音的下载量占12%，TikTok巴西市场的下载量占比为13%。Facebook以5300万次下载排名第二。来自印度市场的下载量占26%，其次是美国，占7%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3479599.d.html</link>
+            <guid>2157316</guid>
+            <pubDate>Wed, 05 May 2021 02:04:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[猫眼专业版数据显示，2021年5月5日9时50分，2021年五一档总票房（含预售）破15亿。]]></title>
+            <guid>2157301</guid>
+            <pubDate>Wed, 05 May 2021 01:59:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  中国地震台网正式测定：05月05日09时51分在四川绵阳市平武县（北纬32.40度，东经104.02度）发生3.6级地震，震源深度10千米。]]></title>
+            <guid>2157300</guid>
+            <pubDate>Wed, 05 May 2021 01:57:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[港股银行股集体强势，恒生银行涨2.6%破顶，交通银行涨2.4%，农业银行涨2.1%，招商银行涨1.8%，工商银行涨1.4%，汇丰控股涨0.6%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0618274.d.html</link>
+            <guid>2157299</guid>
+            <pubDate>Wed, 05 May 2021 01:57:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[市场消息：美国监管机构要求波音公司提供更多关于波音737Max客机的分析。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3476971.d.html</link>
@@ -96,166 +273,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0608785.d.html</link>
             <guid>2157021</guid>
             <pubDate>Wed, 05 May 2021 01:05:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：此次以色列袭击叙利亚塑料工厂，造成至少1人死亡。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0608174.d.html</link>
-            <guid>2157004</guid>
-            <pubDate>Wed, 05 May 2021 01:01:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【3月末我国银行业理财市场规模达25.03万亿元】记者日前从银行业理财登记托管中心获悉，截至3月末，我国银行业理财市场规模达到25.03万亿元，同比增长7.02%；一季度累计兑付客户投资收益2095.83亿元，满足了投资者资产保值增值需要。银行业理财登记托管中心发布的数据显示，银行理财投资者稳步增加。今年一季度，银行理财市场新增817.15万投资者，达到4979.63万，较年初增长19.63%。（新华社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0607555.d.html</link>
-            <guid>2156998</guid>
-            <pubDate>Wed, 05 May 2021 00:57:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：日本政府考虑将东京等地区的紧急状态延长至5月11日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3467557.d.html</link>
-            <guid>2156997</guid>
-            <pubDate>Wed, 05 May 2021 00:57:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【日本最大电力公司社长：希望中日在氢能上展开合作】日本最大电力公司JERA社长小野田聪接受专访，介绍日本近年力推氢能及制氨技术，计划从氨煤混烧向无碳排放的纯氨燃烧发电演进。中国正加速向“碳达峰、碳中和”目标进发，小野田聪对与中国的潜在合作持开放态度，“目的地是一样的，所以让我们一起走。”（财新）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3466086.d.html</link>
-            <guid>2156988</guid>
-            <pubDate>Wed, 05 May 2021 00:47:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【商务部发言人就世贸组织总干事任命四位副总干事发表谈话】 据商务部微信公众号消息，就世贸组织总干事伊维拉宣布任命中国商务部副部长张向晨为世贸组织副总干事一事，商务部发言人表示，这不仅是对张向晨本人能力的认可，更是对中国多年来在世贸组织中发挥的积极和建设性作用的肯定。商务部发言人表示，中国是全球贸易大国和发展中大国，一贯坚定维护以世贸组织为核心的多边贸易体制，支持世贸组织在全球治理中发挥更大作用。下一步，中方将继续加强与世贸组织秘书处的合作关系，一如既往地支持总干事和世贸组织秘书处的工作，为维护多边贸易体制、参与全球经济治理作出应有贡献。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0605824.d.html</link>
-            <guid>2156984</guid>
-            <pubDate>Wed, 05 May 2021 00:47:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美媒：特朗普推出新交流平台，可以发帖、传照片和视频】据美国福克斯新闻消息，美国前总统特朗普当地时间4日推出了一个新的交流平台，这将允许他和支持者进行直接交流。此前，特朗普的账号被社交媒体推特和脸书封禁。 据报道，该平台名叫“来自唐纳德·J·特朗普的办公桌”(From the Desk of Donald J.Trump)。特朗普可以在平台上发帖、上传照片和视频。  （环球网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3465671.d.html</link>
-            <guid>2156972</guid>
-            <pubDate>Wed, 05 May 2021 00:45:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【SA：华为第一季度平板电脑出货量同比降33% 苹果暴涨75%】日前，知名半导体数据分析机构Strategy Analytics发布了今年截至三月份的全球平板电脑的出货量。数据显示，苹果、三星、联想和亚马逊在2021年第一季度都有着出色的平板电脑业绩。今年第一季度华为平板电脑出货量同比下降33%，全球市占率为4.4%，而苹果则暴涨75%，全球市场占有率为36.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3463775.d.html</link>
-            <guid>2156909</guid>
-            <pubDate>Wed, 05 May 2021 00:32:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：以色列的袭击目标是叙利亚地中海港口城市拉塔基亚的一家塑料厂。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3463209.d.html</link>
-            <guid>2156890</guid>
-            <pubDate>Wed, 05 May 2021 00:28:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【布林肯：中美并非“冷战”关系 美将一直支持“一个中国”政策】日前，美国国务卿布林肯在英国接受《金融时报》的采访时强调，中美双方在安克雷奇进行了直接对话，其中涵盖了对抗性、竞争性和合作性，这些特性也是两国关系的特征。布林肯指出，中美目前并非处于“冷战”关系 ，而是竞争和合作并存。美国将从各个层面与中国接触，并以得到结果为重点。布林肯重申，多年以来，美国一直支持“一个中国”政策。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3460069.d.html</link>
-            <guid>2156797</guid>
-            <pubDate>Wed, 05 May 2021 00:07:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据叙利亚阿拉伯通讯社（SANA）：叙利亚拉塔基亚附近传来爆炸声。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0598740.d.html</link>
-            <guid>2156754</guid>
-            <pubDate>Tue, 04 May 2021 23:59:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[澳大利亚证券和投资委员会对西太平洋银行Westpac就内幕交易提起民事诉讼。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0598157.d.html</link>
-            <guid>2156725</guid>
-            <pubDate>Tue, 04 May 2021 23:54:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[广东省卫健委：5月4日0-24时，全省新增境外输入确诊病例1例。新增境外输入无症状感染者3例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3458282.d.html</link>
-            <guid>2156718</guid>
-            <pubDate>Tue, 04 May 2021 23:53:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰联储主席助理Hawkesby：贷款计划融资（FLP）正在达到应有的目的。新的立法将明确新西兰联储的目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3455808.d.html</link>
-            <guid>2156651</guid>
-            <pubDate>Tue, 04 May 2021 23:32:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  中国地震台网正式测定：05月05日06时59分在印尼哈马黑拉岛附近海域（北纬1.45度，东经127.20度）发生5.1级地震，震源深度130千米。]]></title>
-            <guid>2156649</guid>
-            <pubDate>Tue, 04 May 2021 23:28:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【埃及伊斯梅里亚市经济法院驳回“长赐号”船东公司上诉请求】埃及媒体当地时间5月4日报道，当天埃及伊斯玛利亚市经济法院驳回了“长赐号”船东公司提出的解除对“长赐号”扣押的上诉请求。埃及伊斯梅利亚市经济法院当天举行首次听证会，对“长赐号”的拥有者船东公司提出的上诉申请进行受理。法院在听取了船东公司律师对扣押决定的上诉申请后，最终驳回了其关于解除对货轮进行扣押的上诉申请。此前，由于未能就赔偿金额达成一致，船东公司与苏伊士运河管理局在支付赔偿金问题上陷入僵局。（央视新闻）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3455273.d.html</link>
-            <guid>2156648</guid>
-            <pubDate>Tue, 04 May 2021 23:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【雀巢宣布推出植物奶品牌Wunda】雀巢集团周三宣布推出新品牌“Wunda”，以销售一种由黄豌豆制成的牛奶替代品，试图进一步提升其在快速增长的植物基食品市场的影响力。雀巢表示，其新产品包括三种版本——原味、无糖和巧克力味，接下来几周将在法国、荷兰和葡萄牙推出，未来还将扩大到其它欧洲市场。雀巢今年2月表示，去年其植物基乳品替代品的销售额以两位数速度增长，超过1亿瑞士法郎（约合1.094亿美元）。]]></title>
-            <guid>2156644</guid>
-            <pubDate>Tue, 04 May 2021 23:22:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：顺丰房托将在香港IPO中发行5.2亿股股份，发行价为每股4.68-5.16港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0594270.d.html</link>
-            <guid>2156643</guid>
-            <pubDate>Tue, 04 May 2021 23:21:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京市广电局责令爱奇艺暂停《青春有你》第三季后续节目录制】针对群众举报网络综艺节目《青春有你》第三季存在的相关问题，北京市广播电视局高度重视并第一时间约谈了爱奇艺相关负责人，要求该平台严格落实广电行政部门有关管理规定，切实履行网络视听平台主体责任，完善节目管理制度，认真核查并整改存在的问题。根据网络视听节目相关管理规定，北京市广播电视局现责令爱奇艺暂停《青春有你》第三季节目录制。北京市广播电视局将持续加强监管力度，压实平台主体责任，严把节目导向关、内容关，积极营造清朗健康的网络视听空间。（首都广播电视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3454128.d.html</link>
-            <guid>2156636</guid>
-            <pubDate>Tue, 04 May 2021 23:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【拜登称将于6月与普京会晤】美国总统拜登在当地时间5月4日的讲话中表示，他预计将在6月举行的七国集团（G7）会议期间会见俄罗斯总统普京，他对此次会见表示期望。 据悉，2021年七国集团（G7）会议将于6月在英国康沃尔郡举行，这将是拜登担任总统后的首次海外访问。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0593732.d.html</link>
-            <guid>2156634</guid>
-            <pubDate>Tue, 04 May 2021 23:17:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰联储副主席Bascand：房价上涨长期驱动因素是房价软化。还未发布住房调整红色风险警报。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3453770.d.html</link>
-            <guid>2156632</guid>
-            <pubDate>Tue, 04 May 2021 23:14:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新西兰联储副主席Bascand：房价调整的风险比以前更大。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3453302.d.html</link>
-            <guid>2156631</guid>
-            <pubDate>Tue, 04 May 2021 23:09:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook宣布Facebook Workplace订阅人数已超过700万。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0592818.d.html</link>
-            <guid>2156630</guid>
-            <pubDate>Tue, 04 May 2021 23:08:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  市场消息：企业身份管理软件ForgeRock据悉将与摩根士丹利合作进行美股IPO。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0592807.d.html</link>
-            <guid>2156629</guid>
-            <pubDate>Tue, 04 May 2021 23:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西官员：希望尽快批准税收改革。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0592003.d.html</link>
-            <guid>2156628</guid>
-            <pubDate>Tue, 04 May 2021 22:58:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西官员：巴西税收改革报告将涵盖今天草案的一部分。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0591959.d.html</link>
-            <guid>2156627</guid>
-            <pubDate>Tue, 04 May 2021 22:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴西官员：结束巴西税收改革委员会的决定是技术性的。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3452264.d.html</link>
-            <guid>2156626</guid>
-            <pubDate>Tue, 04 May 2021 22:56:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[据媒体消息：日本东京和大阪寻求延长紧急状态。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3451753.d.html</link>
-            <guid>2156624</guid>
-            <pubDate>Tue, 04 May 2021 22:49:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
