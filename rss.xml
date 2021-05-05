@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 05 May 2021 04:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 May 2021 04:48:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[民调显示，德国执政联盟民调支持率上升1个百分点至23%，主要竞争对手绿党支持率仍为28%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0648581.d.html</link>
+            <guid>2157424</guid>
+            <pubDate>Wed, 05 May 2021 04:30:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【印度公布5G试验电信设备供应商名单 不见华为、中兴】当地时间周二，印度通信部发布公告将允许爱立信、诺基亚、三星等全球电信设备制造商参与印度的5G试验，但这份名单中却未将中国企业列入其中。彭博社在5月4日的报道中认为，由于中印边境对峙冲突，印度的电信运营商一致避免与中国电信企业在5G领域合作。报道还认为，印度电信运营商避开中国华为和中兴的决定，与美国、英国和澳大利亚此方面的行动遥相呼应。 (环球网)]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3505362.d.html</link>
+            <guid>2157420</guid>
+            <pubDate>Wed, 05 May 2021 04:14:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【日本大阪、兵库两地医疗资源超负荷运转】5月4日，据日本NHK消息，在关西2府4县公布的新增确诊病例中，大阪新增确诊病例884例、兵库新增337例、京都新增113例、奈良新增61例、滋贺新增53例、和歌山新增22例。大阪府知事吉村洋文对于持续的医疗资源供应不足危机表示，目前难以解除在大阪府实施的紧急事态宣言。（央视新闻）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0644349.d.html</link>
@@ -207,72 +219,6 @@
             <title><![CDATA[  【中国成古巴雪茄最大市场】古巴雪茄的全球经销商哈伯纳斯公司（Habanos）周二表示，中国去年取代西班牙成为古巴雪茄的最大市场。但中国需求增长未能抵消其他地区销售额的下降，去年古巴雪茄的全球销售收入下降4%，至5.07亿美元。]]></title>
             <guid>2157244</guid>
             <pubDate>Wed, 05 May 2021 01:49:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【亲子游订单大涨超30%，4口之家亲子游花费约2万】某在线旅游平台数据显示，今年“五一”期间，亲子游的订单占比超过三分之一。不少亲子家庭在这个假期，对行程、住宿的要求都相对较高。记者在采访中了解到，亲子游家庭的消费在1.2万到2万元不等，被采访者表示“这个花销不算高，一年出来一两次可以接受”。  （央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3474792.d.html</link>
-            <guid>2157191</guid>
-            <pubDate>Wed, 05 May 2021 01:38:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国地质勘探局：太平洋岛国汤加的庞艾镇东南方向139公里处发生5.2级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0614805.d.html</link>
-            <guid>2157189</guid>
-            <pubDate>Wed, 05 May 2021 01:37:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【外媒：内塔尼亚胡组阁失败】据法新社耶路撒冷消息，以色列总统鲁文·里夫林说，本雅明·内塔尼亚胡总理为期28天的组建政府的授权于5日到期，从而为内塔尼亚胡的对手们掌权创造了机会。 报道称，里夫林在一份声明中说：“在午夜之前，内塔尼亚胡通知总统府（总统鲁文·里夫林的办公室），他无法组建政府，因此将授权交还给总统。”（参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3474441.d.html</link>
-            <guid>2157179</guid>
-            <pubDate>Wed, 05 May 2021 01:36:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[庞巴迪宣布成功出售阿尔斯通股份。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0614481.d.html</link>
-            <guid>2157177</guid>
-            <pubDate>Wed, 05 May 2021 01:35:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[百度早盘快速下挫，现跌3.2%，跌穿200港元关口，续创上市以来新低，现报193.9港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3473940.d.html</link>
-            <guid>2157163</guid>
-            <pubDate>Wed, 05 May 2021 01:33:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新加坡针对聚会和商业活动重新实施了更为严格的防疫限制。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3472674.d.html</link>
-            <guid>2157131</guid>
-            <pubDate>Wed, 05 May 2021 01:25:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【家电市场迎来换新潮】京东家电联合中怡康数据机构日前发布的《五一家电换新趋势白皮书》显示，一季度国内家电市场规模达1903亿元，同比增长47%，双线市场均呈现高速增长态势。白皮书预计，随着居民消费不断升级以及家装旺季的到来，家电市场或在“五一”假期迎来一轮增长小高潮。（经济日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0611856.d.html</link>
-            <guid>2157105</guid>
-            <pubDate>Wed, 05 May 2021 01:21:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国铁路北京局集团5月5日预计发送旅客122万人】5月4日，中国铁路北京局集团有限公司增开旅客列车115对，共计发送旅客111.83万人，其中北京地区发送旅客44.81万人，北京站发送10.88万人，北京西站发送12.7万人，北京南站发送14.9万人，北京北站发送1.37万人，清河站发送2.62万人。5月5日北京局集团公司预计发送旅客122万人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmyaawc3469565.d.html</link>
-            <guid>2157052</guid>
-            <pubDate>Wed, 05 May 2021 01:09:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国房价创15年最大涨幅 美国购房者从沿海地区迁往内陆】据《福布斯》杂志网站报道，由于供应紧张和需求旺盛引发竞价大战，美国房价涨幅持续超出预期。美国加州知名房产数据分析公司CoreLogic 5月4日公布的最新数据显示，3月份全美房价同比上涨11.3%，创下2006年3月以来的最高年化涨幅。数据显示，爱达荷州首府博伊西市是都市地区中房价同比涨幅最大的，为27.7%。从美国各州的数据来看，爱达荷州、蒙大拿州和亚利桑那州的房价年度涨幅最大，分别上涨了25%、18.8%和18%。全美范围内，越来越多的购房者从房价昂贵的沿海地区迁往内陆。专家分析称，美国房价正在以“不可持续的速度”上涨，但随着后续的负担能力不足，潜在购房者的数量减少，对房屋的需求下降，今年下半年的房价增长可能会放缓，房价可能会在今年年底或明年年初下跌。（央视财经）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0609459.d.html</link>
-            <guid>2157049</guid>
-            <pubDate>Wed, 05 May 2021 01:09:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【特斯拉德国工厂面临调查 或违反劳动法】据报道，特斯拉在未来德国工厂的施工现场可能存在违反当地劳动法的行为。目前，德国当局正在就此事进行调查。德国国家职业安全办公室和负责打击非法工作的机构正在调查施工工人是否获得了最低工资，以及施工现场的工作时间和建筑工人的住宿条件等是否符合规定。特斯拉和德国当局未立即回复评论请求。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0609325.d.html</link>
-            <guid>2157043</guid>
-            <pubDate>Wed, 05 May 2021 01:08:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【梅琳达申请离婚前三周花120万美元买了座小别墅 将保留盖茨姓氏】梅琳达在与比尔·盖茨提出离婚三周前，刚刚在西雅图北百老汇社区购买了一幢价值120万美元的小别墅，有四室两卫。梅琳达在解除婚姻的申请书中没有要求更改姓名，她将保留自己的全名梅琳达·弗伦奇·盖茨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-05/detail-ikmxzfmm0608785.d.html</link>
-            <guid>2157021</guid>
-            <pubDate>Wed, 05 May 2021 01:05:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
