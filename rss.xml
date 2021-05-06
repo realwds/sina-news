@@ -4,11 +4,34 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Thu, 06 May 2021 04:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 May 2021 04:48:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[法国兴业银行第一季度营收62.5亿欧元，净利润8.14亿欧元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmyaawc3678165.d.html</link>
+            <guid>2158610</guid>
+            <pubDate>Thu, 06 May 2021 04:46:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ 【滴滴出行：2021年五一打车出行量较2019年增三成】滴滴出行发布出行数据报告，今年五一期间，用户打车出行量较2019年同期上涨30%。其中，往返机场、火车站和客运站的出行量较2019年同期上涨了25%，北京、上海、广州、成都、深圳、杭州和天津成今年假期跨城出行热门城市。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmxzfmm0816595.d.html</link>
+            <guid>2158608</guid>
+            <pubDate>Thu, 06 May 2021 04:39:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【女股神Wood麾下Ark基金蒙受池鱼之殃 因宅经济相关股票遭遇卖压】ARK Innovation ETF（ARKK）周三连续第七天下跌，几乎是两年半来的最长下跌。由于对特斯拉和宅经济科技股未卜先知的押注，ARKK在2020年上涨了约150%，如今开始面对负面的数据。ARKK今年下跌了10%以上，投资者为了避免更多损失而寻求保护。卖权数量周二达到190000，为六周来最高，也是有记录以来第四高。该基金的下跌，主要是其许多重仓押注的高估值科技股在这波市场轮动中遭到抛售。投资者先前追捧的Zoom，Roku和Teladoc Health等股票，都是ARKK的前十大持股。数据显示，ARKK连续五天流出资金，总计近7.7亿美元。]]></title>
+            <guid>2158600</guid>
+            <pubDate>Thu, 06 May 2021 04:25:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中物联：全球制造业增速有所放缓 平稳复苏态势未变】据中国物流与采购联合会网站消息，4月份，全球制造业PMI较上月有所回落，但指数连续10个月保持在50%以上，最近两月均处在57%以上近年来较高水平，显示当前全球制造业增速有所放缓，但平稳复苏基本态势没有改变。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmyaawc3674646.d.html</link>
+            <guid>2158598</guid>
+            <pubDate>Thu, 06 May 2021 04:17:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【默克尔：和中国对着干，很多全球性问题都不可能得到解决】德国总理默克尔5日以视频形式出席德国联邦议院基民盟和基社盟党团的一场会议时表示，德国完全希望中国这样一个体量庞大的国家能够取得好的发展、中国人民能够过上富足的生活，同时也希望中国能够继续紧密融入多边秩序。她表示，无论是应对气候变化、世贸组织改革还是其它全球性问题，如果选择抛开中国，或者与中国对着干，那么这些问题都不可能得到解决。她强调，在多边主义领域，中国所宣示的“力争2030年前实现碳达峰，2060年前实现碳中和”的目标是令人振奋的信号。（中新社）]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmxzfmm0812514.d.html</link>
@@ -271,42 +294,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmyaawc3649463.d.html</link>
             <guid>2158506</guid>
             <pubDate>Thu, 06 May 2021 02:21:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【Gartner预测2021年全球公有云终端用户支出将增长23%】信息技术研究和顾问公司Gartner公布了2020年公有云IaaS的市场数据，全球IaaS市场比2019年增长了40.9%，而中国的增长达到了62.1%。此外Gartner预测，2021年全球公有云服务终端用户支出将增长23.1%，总额达到3323亿美元（2020年为2700亿美元）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmxzfmm0786733.d.html</link>
-            <guid>2158499</guid>
-            <pubDate>Thu, 06 May 2021 02:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【大连市打造数字人民币应用示范村】在人民银行大连市中心支行的支持下，邮储银行大连分行正在发力打造数字人民币试点示范村。示范村内的农贸市场、商店、养殖场、果菜销售、药房、小吃店、农机站、汽配店等“三农”特色服务场景将由此实现数字人民币收付功能的广泛覆盖。 目前，邮储银行大连分行已在农村地区累计布设场景224个、完成交易1558笔。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmyaawc3646688.d.html</link>
-            <guid>2158498</guid>
-            <pubDate>Thu, 06 May 2021 02:09:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【王登峰：让每个学生都能掌握一两项艺术特长】在教育部今天召开的新闻发布会上，体育卫生与艺术教育司司长王登峰介绍，美育课堂要教会学生基本艺术知识、艺术技能，让学生有欣赏美、体验美的机会，让每个学生都能掌握1—2项艺术特长。培养每个学生具备艺术特长，这是下一步推进学校美育改革的关键。（人民日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmxzfmm0785782.d.html</link>
-            <guid>2158497</guid>
-            <pubDate>Thu, 06 May 2021 02:08:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【保隆科技：已根据原材料价格与客户协商调整产品销售价格】保隆科技5月6日在互动平台表示，公司根据目前原材料的价格已经与客户协商调整产品销售价格，部分客户已经完成价格调整。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmxzfmm0785091.d.html</link>
-            <guid>2158494</guid>
-            <pubDate>Thu, 06 May 2021 02:05:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[小米集团盘中拉升，现涨近5%。今早小米集团董事长兼CEO雷军在微博表示，今年第一季度欧洲智能手机市场份额，小米首次达到第二。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmxzfmm0785021.d.html</link>
-            <guid>2158492</guid>
-            <pubDate>Thu, 06 May 2021 02:05:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[由于致命性注射药物匮乏，美国南卡罗来纳州议员就是否在该州增加枪决进行投票。 （美联社）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-06/detail-ikmyaawc3645294.d.html</link>
-            <guid>2158491</guid>
-            <pubDate>Thu, 06 May 2021 02:03:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
