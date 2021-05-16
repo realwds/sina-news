@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 16 May 2021 04:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 May 2021 04:59:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【中国信通院：隐私计算技术已接近产业化】在5月15日清华大学全球产业研究院等主办的第三届中国产业高质量发展论坛上，中国信息通信研究院云计算与大数据研究所所长何宝宏介绍，诞生在数据隐私保护背景下的隐私计算技术正在蓬勃发展，2020年隐私计算整体速度只比明文计算慢25倍，同时隐私计算应用的场景更加丰富，隐私计算技术已接近产业化。（中证网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2747244.d.html</link>
+            <guid>2174136</guid>
+            <pubDate>Sun, 16 May 2021 04:54:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【河北三河市加快与北京城市副中心协同发展，签约1335亿元】近日，河北省廊坊市三河市在北京城市副中心举办“协同创新·筑梦三河”项目推介洽谈会。会上，三河市与北京市签约重大战略合作6个、重点项目79个，总投资1335亿元，涉及区域开发、城市更新、科创基地、轨道交通等领域。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2744154.d.html</link>
+            <guid>2174132</guid>
+            <pubDate>Sun, 16 May 2021 04:35:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AppleStore中的AirTag送货时间延长，从5-7个工作日延长至4-5周。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5606430.d.html</link>
+            <guid>2174131</guid>
+            <pubDate>Sun, 16 May 2021 04:28:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据新京报：辽宁营口两火车站采取管控措施，旅客进站需持72小时内核酸检测阴性证明。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5606320.d.html</link>
+            <guid>2174130</guid>
+            <pubDate>Sun, 16 May 2021 04:27:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【*ST众泰：离职的大部分关键技术人员中 包含原新能源产线技术人员】有投资者在互动平台向*ST众泰提问称公司离职的大部分关键技术人员中是否包含大量原新能源产线的技术人员，*ST众泰回复：包含原新能源产线的技术人员。]]></title>
             <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2740704.d.html</link>
@@ -288,29 +312,6 @@
             <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmyaawc5543013.d.html</link>
             <guid>2173671</guid>
             <pubDate>Sat, 15 May 2021 18:48:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：拜登总统与巴勒斯坦总统阿巴斯通了电话，拜登总统向其传达了美国加强美巴伙伴关系的承诺。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2679820.d.html</link>
-            <guid>2173632</guid>
-            <pubDate>Sat, 15 May 2021 18:41:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国白宫：美国总统拜登与以色列总理内塔尼亚胡通了电话，拜登总统重申“坚决支持以色列防御哈马斯及加沙其他恐怖组织袭击的权利”。]]></title>
-            <guid>2173631</guid>
-            <pubDate>Sat, 15 May 2021 18:41:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[以色列总理内塔尼亚胡15日与美国总统拜登就巴以局势通电话。内塔尼亚胡向拜登说明了以色列在加沙地带采取的行动和今后的计划。巴勒斯坦总统阿巴斯收到了拜登来电，这是自拜登1月宣誓就职以来第一次与阿巴斯通话。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2678595.d.html</link>
-            <guid>2173512</guid>
-            <pubDate>Sat, 15 May 2021 18:16:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[巴勒斯坦总统阿巴斯发言人：阿巴斯总统与美国总统拜登通话的内容有关地区发展。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-05-16/detail-ikmxzfmm2674845.d.html</link>
-            <guid>2173470</guid>
-            <pubDate>Sat, 15 May 2021 17:11:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
