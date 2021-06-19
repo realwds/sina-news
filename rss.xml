@@ -4,16 +4,28 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 19 Jun 2021 04:03:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Jun 2021 04:50:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[【定期存款利率要降？大额存单突遭抢购】“下周定期存款利率就要下降了，要不要抓紧周末时间配一点？”多家银行理财经理对记者表示，近日前来问询大额存单的人很多，因为过了这个周末，不少存款产品的利率要下调。调整幅度最大的是工行某分行，三年期大额存单从3.85%直接下调到3.25%，调整幅度达到60个BP。此外，一年期、两年期存款产品也将全部下调利率。（券商中国）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0533527.d.html</link>
-            <guid>2214105</guid>
-            <pubDate>Sat, 19 Jun 2021 04:01:47 GMT</pubDate>
+            <title><![CDATA[市场消息：受美国炎热天气影响，美国加州政府正尽力避免连续2天出现的轮流断电情况。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0541935.d.html</link>
+            <guid>2214116</guid>
+            <pubDate>Sat, 19 Jun 2021 04:48:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳“企鹅岛”开建，总投资370亿元】据深圳发布，腾讯全球总部——“互联网+”未来科技城正动土兴建。记者从宝安区发改局获悉，腾讯大铲湾项目去年已取得建设许可，目前正在进行基坑支护施工。腾讯方面证实，已经动工的地块正是“企鹅岛”项目。据悉，腾讯大铲湾项目分一期和二期。宝安区发改局提供的资料显示，该项目用地面积80.9万平方米，总建筑面积200万平方米，计划总投资达370亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0540217.d.html</link>
+            <guid>2214114</guid>
+            <pubDate>Sat, 19 Jun 2021 04:37:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【深圳机场汽车站跨市客运线路今日起暂停营运】据深圳机场公共交通微信公众号消息，自6月19日起，深圳机场汽车站跨市客运线路暂停营运，恢复时间另行通知。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0537758.d.html</link>
+            <guid>2214109</guid>
+            <pubDate>Sat, 19 Jun 2021 04:23:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[  【低速电动车即将转正】近日，工信部对《纯电动乘用车技术条件》公开征求意见，主要涉及两方面，一是对原纯电动乘用车技术条件进行修订更新，二是增加针对微型低速纯电动乘用车的技术要求。征求意见截止日期为2021年8月16日。这意味着低速电动车规范管理驶入“快车道”。   （经济日报）]]></title>
@@ -348,54 +360,6 @@
             <title><![CDATA[  【美联储加息预测提前让人摸不着头脑 市场更想知道何时开始减码】几个月来，投资者一直想知道美联储何时会开始缩减大规模的资产购买。当鲍威尔周三透露围绕减码的辩论正在进行中时，决策者们提前预期加息时点和步伐引发的震惊盖过了这一消息。分析师预测，美联储会在8月的杰克逊霍尔年会上或是9月发出即将采取行动的信号，但真正宣布会等到今年更晚些时候。这与他们在本周政策会议之前的预期一致。]]></title>
             <guid>2213998</guid>
             <pubDate>Fri, 18 Jun 2021 22:36:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【新能源车“白酒化”特征明显 产业链面临安全挑战】分析认为，当前的汽车行业正在出现类似于白酒行业发展的特征。多位业内人士表示，汽车产业链供应链安全稳定是构建汽车产业全球化发展的基础。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0474699.d.html</link>
-            <guid>2213997</guid>
-            <pubDate>Fri, 18 Jun 2021 22:36:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【父亲节激活“爸爸经济”，险企出招打造“特供”产品】6月20日，是一年一度的父亲节。瞄准“爸爸经济”，保险公司和保险中介公司放出大招，纷纷打造“节日特供”。业内人士认为，在父亲节、母亲节、儿童节等节日，针对特定群体应景推介相应保险产品，是险企近年来的获客新手段，体现了险企深耕细分市场的趋势，但此类“定制化”保险产品功能亦需不断完善，从而更契合消费者需求。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0474223.d.html</link>
-            <guid>2213996</guid>
-            <pubDate>Fri, 18 Jun 2021 22:31:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【需求增速放缓，钢材社会库存回升】全国钢材社会库存回升。兰格钢铁云商平台监测数据显示，6月18日，全国钢材社会库存指数为137.5点，比上周上升2.84%，由上周的下降转为上升。5月钢铁需求同比增速为1.3%，增速较上月的5.5%继续放缓。下游地产新开工表现不佳。同时，高耗钢行业增速分化，通用设备、金属制品、电器机械相对较强，工业增加值分别同比增长13.8%、19.2%、18.7%。专用设备、汽车行业明显放缓，同比分别增长5.9%和0.5%。此外，水泥产量和挖掘机销量出现负增长，反映出建筑业需求回落。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1875431.d.html</link>
-            <guid>2213995</guid>
-            <pubDate>Fri, 18 Jun 2021 22:29:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【五粮液“十四五”期间将新增12万吨原酒产能】在6月18日召开的公司2020年度股东大会上，五粮液集团党委书记、董事长，股份公司党委书记、董事李曙光表示，白酒行业产能过剩与优质产能供应不足的矛盾并存，名优白酒产量难以满足消费者需求。“十四五”期间，五粮液将新增12万吨原酒产能，总产能达到25万吨。同时，增加基酒储存能力，“十四五”期间突破100万吨。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1874930.d.html</link>
-            <guid>2213994</guid>
-            <pubDate>Fri, 18 Jun 2021 22:22:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【射频芯片厂商飞骧科技计划A股上市】深圳飞骧科技股份有限公司拟首次公开发行股票并在境内证券交易所上市，现已接受中国国际金融股份有限公司的辅导，并于2021年6月11日在深圳证监局进行了辅导备案。飞骧科技是国内老牌射频前端芯片厂商，前身是国民技术无线射频事业部，拥有10年的射频前端产品的研发和销售历史，产品涵盖2G、3G、4G、5G、WiFi、IoT的功率放大器芯片等领域，目前已经实现了5G全系列射频产品的研发成功和国产工艺的5G商用。飞骧曾是第一个推出4G PA的国产厂商，2015年在红米手机上实现了数百万的发货。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqciyzk0473111.d.html</link>
-            <guid>2213992</guid>
-            <pubDate>Fri, 18 Jun 2021 22:17:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【三大关键词“剧透”下半年资本市场改革看点】多项重磅政策近日接连落地，显示资本市场改革正驶入“深水区”。专家认为，在加快构建新发展格局的当下，资本市场肩负更好服务实体经济、加快推动经济高质量发展重任。下半年，资本市场多个重点领域改革有望迎来新突破，这突出体现在基础制度建设更加成熟、市场开放水平不断“升级”、对违法违规行为“零容忍”三大方面。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1874234.d.html</link>
-            <guid>2213991</guid>
-            <pubDate>Fri, 18 Jun 2021 22:10:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国西部多个地区高温破纪录】据美国媒体18日报道，席卷美国西部的热浪已进入第七天，目前约5500万美国人正在遭受高温的威胁，预计高温将持续到下周初。据悉，亚利桑那州图森市、凤凰城和内华达州拉斯维加斯本周最高气温都超过了43.3摄氏度，打破了之前的纪录。加州棕榈泉周四的气温达到了50.6摄氏度，创下了该市6月份的最高气温纪录。加州死亡谷17日的最高气温甚至达到了53.3摄氏度，只比地球上记录的最高气温低了约3.4度。随着气温不断升高，以及家庭在高温期间用电需求上升，电网运营商恳请居民减少用电，仅维持生活所需，以避免断电的情况发生。根据天气预报，高温预计将于下周中之前解除。（中国日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1873955.d.html</link>
-            <guid>2213988</guid>
-            <pubDate>Fri, 18 Jun 2021 22:05:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[深化东北地区国企混改实施方案已发布实施，明确提出要向战略投资者释放合适股权比例。此外，资源配置、产业、金融、土地、科技创新等方面更多联动政策也在酝酿中。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-19/detail-ikqcfnca1873915.d.html</link>
-            <guid>2213987</guid>
-            <pubDate>Fri, 18 Jun 2021 22:05:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
