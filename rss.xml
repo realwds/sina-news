@@ -4,11 +4,22 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 26 Jun 2021 04:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Jun 2021 04:45:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【海南启动打击治理离岛免税“套代购”走私专项行动】昨日上午，海南省举行打击治理离岛免税“套代购”走私专项行动启动仪式。海关总署、海南省政府决定自即日起，对“套代购”走私离岛免税商品行为开展为期一年的专项打击治理行动。行动将清理整治非法销售行为，夯实免税经营主体的责任，加强对寄递行业的监管，严厉打击非法揽货、非法寄递等行为。]]></title>
+            <guid>2221208</guid>
+            <pubDate>Sat, 26 Jun 2021 04:24:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[澳大利亚新南威尔士州长Berejiklian： 新南威尔士州宣布对悉尼进行更大规模的封锁，至7月9日。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3351130.d.html</link>
+            <guid>2221207</guid>
+            <pubDate>Sat, 26 Jun 2021 04:05:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[据俄罗斯卫星网：德国另类选择党联席主席表示，希望能够举行欧盟-俄罗斯峰会，尽管有部分欧盟国家表示反对。]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1949988.d.html</link>
@@ -322,24 +333,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3287795.d.html</link>
             <guid>2221083</guid>
             <pubDate>Fri, 25 Jun 2021 21:00:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：Enrique预计将于明天加强为飓风，已向墨西哥湾西南部地区发出热带风暴警告。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqcfnca3287652.d.html</link>
-            <guid>2221082</guid>
-            <pubDate>Fri, 25 Jun 2021 20:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[渤健盘后几无波动。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1889403.d.html</link>
-            <guid>2221081</guid>
-            <pubDate>Fri, 25 Jun 2021 20:56:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IMF：执行委员会就6500亿美元的新特别提款权拨款进行了讨论，这标志着下一步行动将于8月完成。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-26/detail-ikqciyzk1889294.d.html</link>
-            <guid>2221080</guid>
-            <pubDate>Fri, 25 Jun 2021 20:53:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
