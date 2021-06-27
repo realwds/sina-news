@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 27 Jun 2021 04:03:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Jun 2021 04:45:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据俄罗斯卫星网：印度国防部表示，查谟机场低强度爆炸事故的初步调查显示当时使用了无人机。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3530951.d.html</link>
+            <guid>2221748</guid>
+            <pubDate>Sun, 27 Jun 2021 04:31:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【泰国曼谷及周边地区6月28日起实行“封城”措施】当地时间6月27日凌晨，泰国总理巴育签署紧急命令法，宣布自6月28日开始，对泰国首都曼谷及周边地区佛统府、暖武里府、巴吞他尼府、沙没沙空府实行“封城”措施。封城”具体措施包括所有餐厅禁止堂食，仅提供外卖服务；在未经相关管理部门批准的情况下，禁止组织二十人以上的聚集活动等。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2127629.d.html</link>
@@ -303,24 +309,6 @@
             <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3461258.d.html</link>
             <guid>2221640</guid>
             <pubDate>Sat, 26 Jun 2021 19:45:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美国芝加哥一夜之间发生15起枪击案 造成2人死亡至少23人受伤】美国芝加哥警方当地时间6月26日报告，从25日晚间到26日早间，芝加哥总共发生了15起枪击事件，造成2名男子死亡，至少23人受伤。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqciyzk2057318.d.html</link>
-            <guid>2221632</guid>
-            <pubDate>Sat, 26 Jun 2021 18:21:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【丹麦发现首例感染“德尔塔”变异毒株病例】当地时间6月26日，丹麦广播电视台（DR）报道，丹麦发现首例感染“德尔塔”变异毒株病例，该病例于6月21日发现，感染者乘坐来自葡萄牙的飞机抵达丹麦。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3454399.d.html</link>
-            <guid>2221631</guid>
-            <pubDate>Sat, 26 Jun 2021 18:05:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【庆祝中国共产党成立100周年大会第二次综合演练圆满结束】从中国共产党成立100周年庆祝活动新闻中心获悉，6月26日20时至27日凌晨，北京天安门地区举行了庆祝中国共产党成立100周年大会第二次综合演练，3.3万人参加演练、观礼及现场保障工作。（央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-06-27/detail-ikqcfnca3451485.d.html</link>
-            <guid>2221594</guid>
-            <pubDate>Sat, 26 Jun 2021 17:31:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
