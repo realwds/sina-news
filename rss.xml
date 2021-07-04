@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 04 Jul 2021 04:07:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jul 2021 04:44:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据人民日报：北京时间12时09分，航天员刘伯明、汤洪波协同完成空间站舱外全景相机抬升操作。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3460734.d.html</link>
+            <guid>2228826</guid>
+            <pubDate>Sun, 04 Jul 2021 04:21:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[波兰央行行长：未有迹象表明低利率助长了房地产泡沫。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4859068.d.html</link>
+            <guid>2228822</guid>
+            <pubDate>Sun, 04 Jul 2021 04:07:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[波兰央行行长：通胀数据并不令人担忧。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3458465.d.html</link>
@@ -349,18 +361,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqcfnca4793229.d.html</link>
             <guid>2228723</guid>
             <pubDate>Sat, 03 Jul 2021 18:01:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：07月04日01时04分在阿拉伯海发生5.5级地震，震源深度10千米。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3391589.d.html</link>
-            <guid>2228718</guid>
-            <pubDate>Sat, 03 Jul 2021 17:39:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[欧洲地中海地震中心：印度洋欧文断裂带发生5.7级地震。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-04/detail-ikqciyzk3391562.d.html</link>
-            <guid>2228717</guid>
-            <pubDate>Sat, 03 Jul 2021 17:38:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
