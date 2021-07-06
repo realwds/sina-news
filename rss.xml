@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 06 Jul 2021 04:04:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jul 2021 04:44:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【北京国际电影节将于8月举办】记者6日从第十一届北京国际电影节组委会获悉，#第十一届北京国际电影节#将于8月14日至8月21日在北京举办。巩俐将担任“天坛奖”国际评委会主席。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5234983.d.html</link>
+            <guid>2230451</guid>
+            <pubDate>Tue, 06 Jul 2021 04:41:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【首创集团原党委书记、董事长李爱庆接受审查调查】据北京市纪委监委消息：北京市十五届人大常委会委员、市十五届人大财政经济委员会副主任委员，北京首都创业集团有限公司原党委书记、董事长李爱庆涉嫌严重违纪违法，目前正接受纪律审查和监察调查。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5233863.d.html</link>
+            <guid>2230445</guid>
+            <pubDate>Tue, 06 Jul 2021 04:35:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【三亚机场今年旅客吞吐量破1000万人次】三亚凤凰国际机场（下称“三亚机场”）6日发布消息称，该机场本年度旅客吞吐量在5日突破1000万人次。这是三亚机场连续第11年旅客吞吐量突破1000万人次，较2020年提前了87天。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5232877.d.html</link>
+            <guid>2230432</guid>
+            <pubDate>Tue, 06 Jul 2021 04:29:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【预告：推广三明医改经验新闻发布会今天下午将在福建省三明市召开】国务院医改领导小组秘书处、国家卫生健康委定于2021年7月6日15:30在福建省三明市召开新闻发布会 ，请国家卫生健康委体制改革司、福建省卫生健康委、三明市人民政府、三明市沙县区总医院负责人介绍三明医改经验有关情况，并答记者问。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3832399.d.html</link>
+            <guid>2230429</guid>
+            <pubDate>Tue, 06 Jul 2021 04:24:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【中国东方教育：将购回最高总额6亿港元的股票】中国东方教育公告表示，将不定期在公开市场购回最高总额6亿港元的股份。股份购回将展示公司对自身业务展望及前景充满信心，并将为股东创造价值。现有财务资源足以支持股份购回同时维持稳健的财务状况。截至周二中午，该股股价下跌2.7%至9.77港元。年初至今已下跌47.6%，恒生指数则上涨2.75%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3831993.d.html</link>
+            <guid>2230428</guid>
+            <pubDate>Tue, 06 Jul 2021 04:22:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[大华继显：将吉利汽车评级上调至买进，目标价28.50港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5230106.d.html</link>
+            <guid>2230425</guid>
+            <pubDate>Tue, 06 Jul 2021 04:15:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[印尼部长：政府已经做好了应对最坏情况下每日新增确诊病例达到4万至5万例的准备。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5228533.d.html</link>
+            <guid>2230417</guid>
+            <pubDate>Tue, 06 Jul 2021 04:07:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[  【上海市消保委：上海电信称研究开机广告一键关闭】上海市消保委6日发文称，收到了中国电信上海公司关于IPTV开机广告一键关闭问题的回应，中国电信上海公司表示高度重视，连夜成立专项工作组，研究IPTV开机广告一键关闭相关技术方案，抓紧落实技术开发，力争在三个月内上线。5日，上海市消保委发文质疑上海电信IPTV此前的回复。上海电信IPTV之前称“开机30秒时间投放广告是为提高用户体验，若没有广告就会黑屏”。]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3827084.d.html</link>
@@ -252,185 +294,6 @@
             <title><![CDATA[沪深两市成交额突破5000亿。]]></title>
             <guid>2230347</guid>
             <pubDate>Tue, 06 Jul 2021 02:36:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股阿里健康盘中大跌5.19%，现报15.36港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5206317.d.html</link>
-            <guid>2230345</guid>
-            <pubDate>Tue, 06 Jul 2021 02:34:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ 国务院医改领导小组秘书处、国家卫生健康委定于2021年7月6日下午15:30在福建省三明市召开新闻发布会，请国家卫生健康委体制改革司、福建省卫生健康委、三明市人民政府、三明市沙县区总医院负责人介绍三明医改经验有关情况，并答记者问。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3806637.d.html</link>
-            <guid>2230344</guid>
-            <pubDate>Tue, 06 Jul 2021 02:33:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  半导体芯片股继续活跃，欧比特（20%）、柘中股份、上海贝岭先后涨停，芯源微涨超11%，和而泰、聚灿光电、东土科技、兴森科技等大幅跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5205939.d.html</link>
-            <guid>2230343</guid>
-            <pubDate>Tue, 06 Jul 2021 02:32:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【农业农村部：不断完善联农带农机制 提高农民发展畜牧产业能力】据农业农村部官网7月6日消息，农业农村部将会同有关部门，积极回应畜禽养殖场户的合理诉求，加强规划引导、政策支持和科技帮扶，不断完善联农带农机制，提高农民发展畜牧产业的能力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5205705.d.html</link>
-            <guid>2230342</guid>
-            <pubDate>Tue, 06 Jul 2021 02:32:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【大西北暑期旅游预订创5年新高】暑期来临，大西北成为最受青睐的国内游目的地之一。据旅游平台，暑期大西北目的旅游产品预订量同比增长超3倍，创5年新高。90后占比约6成，00后预订增速最快排名第一。随着年轻人西北游需求的快速增长，大漠音乐节、野奢露营、国潮市集等新体验也将集中亮相大西北。 (央视网)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3805351.d.html</link>
-            <guid>2230340</guid>
-            <pubDate>Tue, 06 Jul 2021 02:29:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【国家发改委运行局召开全国煤炭储备能力建设现场会】近日，国家发改委运行局在山东省济宁市召开全国煤炭储备能力建设现场会。会议要求，各地和中央企业要坚持底线思维，着眼构建煤炭供应保障长效机制，继续加快推动政府煤炭储备设施建设，进一步细化实化落实方案，健全完善信息监测、运营管理、储备调用机制，坚定不移地完成煤炭储备能力建设任务目标，推动形成调节灵活、保障有力的煤炭储备体系。（国家发改委）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3804602.d.html</link>
-            <guid>2230339</guid>
-            <pubDate>Tue, 06 Jul 2021 02:26:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[韩国总统文在寅：韩国将于10月宣布新的碳减排目标。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5203657.d.html</link>
-            <guid>2230337</guid>
-            <pubDate>Tue, 06 Jul 2021 02:24:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[宁波中百、大恒科技双双逼近跌停，美邦服饰、文峰股份、华丽家族、康强电子等跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3803374.d.html</link>
-            <guid>2230335</guid>
-            <pubDate>Tue, 06 Jul 2021 02:21:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  特斯拉CEO马斯克：更新后的UI将与FSD广泛发布， 所有Model 3/Y都可以升级配备FSD电脑。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5202475.d.html</link>
-            <guid>2230334</guid>
-            <pubDate>Tue, 06 Jul 2021 02:20:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【五粮液参股成立教育科技公司】天眼查App显示，7月5日，北京中酒荟萃教育科技股份有限公司成立，注册资本5400万人民币，法定代表人为海振明，经营范围包括产品设计；软件开发；教育咨询；互联网信息服务等。股东信息显示，该公司由宜宾五粮液股份有限公司、四川经纬教育管理集团有限公司等公司共同持股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3802639.d.html</link>
-            <guid>2230331</guid>
-            <pubDate>Tue, 06 Jul 2021 02:19:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【泰国一台企发生剧烈爆炸 主要生产发泡性聚苯乙烯】当地时间7月5日凌晨，位于泰国首都曼谷附近北榄府的台资明迪化工有限公司发生剧烈爆炸和火灾。据悉，该化工厂有大约6个仓库，其中一个仓库存放了50吨化学品，里面超过20吨的化学品已经被引爆。根据明迪公司官网，泰国明迪化学公司是台湾明迪集团1989年转投资泰国的跨国企业，主要生产发泡性聚苯乙烯，年产量可达3万吨。（环球时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3802325.d.html</link>
-            <guid>2230330</guid>
-            <pubDate>Tue, 06 Jul 2021 02:18:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股比亚迪股份涨近3%，6月新能源汽车销量同比大增192%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3801578.d.html</link>
-            <guid>2230328</guid>
-            <pubDate>Tue, 06 Jul 2021 02:15:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  锂电池板块持续活跃，宁德时代涨近4%，西藏矿业再度涨停，融捷股份、雅化集团、盛新锂能、国轩高科等冲高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3801327.d.html</link>
-            <guid>2230327</guid>
-            <pubDate>Tue, 06 Jul 2021 02:14:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[创业板指涨0.4%，此前一度跌1%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5200716.d.html</link>
-            <guid>2230326</guid>
-            <pubDate>Tue, 06 Jul 2021 02:13:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞芯微Toybrick推出TB-RK3568X、TB-RV1126D开发板】近日，瑞芯微Toybrick正式发布全新TB-RK3568X和TB-RV1126D开发板。TB-RK3568X支持Android 11、Debian10、buildroot系统，主要面向智慧视觉、云终端、网络视频录像机、物联网网关、工控、网络附属存储、KTV点唱机等行业应用领域。TB-RV1126D开发板可赋能IPC、智能门禁、智慧屏、智能办公/教育、车载视觉等场景及细分产品。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5200359.d.html</link>
-            <guid>2230325</guid>
-            <pubDate>Tue, 06 Jul 2021 02:12:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股海底捞盘中大涨5%，现报42.95港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3800819.d.html</link>
-            <guid>2230324</guid>
-            <pubDate>Tue, 06 Jul 2021 02:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【生意社：淡季不淡 液化气价格持续攀升】进入7月，液化气受季节性因素影响，处于传统销售淡季，但月初延续了6月末的上涨行情，价格持续攀升。据生意社数据监测，7月1日液化气民用山东市场均价在4326.67元/吨，7月5日均价在4426.67元/吨，期间上涨幅度为2.31%，较6月1日相比上涨6.84%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5200219.d.html</link>
-            <guid>2230323</guid>
-            <pubDate>Tue, 06 Jul 2021 02:11:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【荣盛石化：原油成本在公司成本中占比较大】荣盛石化在互动平台表示，原油成本在公司成本中占比较大。一般来说，油价上涨会导致原材料成本攀升，但产品价格也往往会相应提升，从而使得产业链的产品成本与产品价差有所扩大，提升盈利空间。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5200021.d.html</link>
-            <guid>2230321</guid>
-            <pubDate>Tue, 06 Jul 2021 02:11:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  氟化工板块大幅拉升，联创股份（20%）、龙星化工、三美股份、巨化股份先后涨停，新宙邦、雅克科技、兴发集团、云天化等跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5199553.d.html</link>
-            <guid>2230320</guid>
-            <pubDate>Tue, 06 Jul 2021 02:09:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【中国移动成立芯片公司】 近日，中国移动旗下、中移物联网全资子公司芯昇科技有限公司正式独立运行，进一步进军物联网芯片领域，并计划科创板上市。该公司成立于2020年，法定代表人为肖青，注册资本5000万元，经营范围包含智能车载设备制造；智能车载设备销售；电子元器件制造等。目前该公司由中移物联网有限公司100%控股。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5199442.d.html</link>
-            <guid>2230319</guid>
-            <pubDate>Tue, 06 Jul 2021 02:09:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【华为否认将发射两颗卫星抢占6G研发】7月6日上午，对华为将发射两颗卫星抢占6G研发一消息，华为在官微发文予以否认。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5199170.d.html</link>
-            <guid>2230317</guid>
-            <pubDate>Tue, 06 Jul 2021 02:08:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股腾讯控股短线拉升，涨1.2%，现报561港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5199073.d.html</link>
-            <guid>2230315</guid>
-            <pubDate>Tue, 06 Jul 2021 02:07:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  港股东岳集团盘初一度涨超16%，东岳未来氢能科创板上市已进入辅导阶段。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5198926.d.html</link>
-            <guid>2230314</guid>
-            <pubDate>Tue, 06 Jul 2021 02:07:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【利民股份：代锌锰森在全球范围内被大规模禁用的风险较低】利民股份在互动平台表示，代森锰锌是在世界范围内被广泛使用的、性价比高的优质保护性杀菌剂，生产及使用已有数十年历史，产品生命力比较旺盛，我们认为代锌锰森在全球范围内被大规模禁用的风险较低。个别地区的禁用不会对该产品的长期生命力产生显著影响。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3799256.d.html</link>
-            <guid>2230313</guid>
-            <pubDate>Tue, 06 Jul 2021 02:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[北向资金净流入达10亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5198652.d.html</link>
-            <guid>2230312</guid>
-            <pubDate>Tue, 06 Jul 2021 02:06:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  BIPV概念股早盘回调，森特股份触及跌停，中来股份跌超9%，华自科技、启迪设计、亚玛顿、秀强股份等跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqciyzk3799054.d.html</link>
-            <guid>2230311</guid>
-            <pubDate>Tue, 06 Jul 2021 02:06:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【新西兰银行：预计新西兰联储将在今年11月加息】我行认为新西兰联储现在收紧政策的条件已经成熟。商业意见季度调查（QSBO）的结果也证实了“目前唯一的问题是利率何时会上升和上升多少”这一观点，这表明加息时间明显临近，因此我行正式将新西兰联储的加息时间预期从2022年5月提前至今年11月。若真如QSBO调查结果所示的一样，那么新西兰联储不仅实现了通胀和可持续就业最大化这两个目标，而且正在朝着超越这些目标的方向迈进。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5198412.d.html</link>
-            <guid>2230310</guid>
-            <pubDate>Tue, 06 Jul 2021 02:05:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【厦门钨业、江西钨业7月上半月钨精矿报价均上调】厦门钨业2021年7月上半月仲钨酸铵长单现款采购价格为15万元/吨，较6月下半月报价上调4500元/吨。江西钨业2021年7月上半月国标一级黑钨精矿报价10.2万元/标吨，较6月下半月上调3500元/标吨。（中钨在线）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5198109.d.html</link>
-            <guid>2230309</guid>
-            <pubDate>Tue, 06 Jul 2021 02:04:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国地震台网正式测定：07月06日09时50分在青海果洛州玛多县（北纬34.68度，东经98.28度）发生4.0级地震，震源深度10千米。]]></title>
-            <guid>2230307</guid>
-            <pubDate>Tue, 06 Jul 2021 02:02:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[磷化工板块持续拉升，川恒股份涨停，川金诺涨超11%，六国化工、新安股份、安纳达跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-06/detail-ikqcfnca5197605.d.html</link>
-            <guid>2230306</guid>
-            <pubDate>Tue, 06 Jul 2021 02:02:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
