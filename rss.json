@@ -6,6 +6,20 @@
     "description": "新浪全球实时财经新闻",
     "items": [
         {
+            "id": 2235262,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4645082.d.html",
+            "title": "  【G20高级别独立小组：全球须未雨绸缪 应增拨千亿元资金防疫】当地时间7月9日，G20高级别独立小组在威尼斯举行视频会议，并发表题为《为应对大流行病提供公共资金》的报告。会议提出，国际社会在未来五年，应该至少增加750亿美元（约合4960亿元人民币）的拨款，以弥补应对下一次大流行病经费的巨大缺口。报告说，世界必须采取措施来应对再次暴发新型大流行病的风险，短期内在拨款方面节约将是一个“巨大的错误”。政府不应等情况危急了才采取行动，因为下一次大流行病暴发后果可能会更糟。（央视）",
+            "date_modified": "2021-07-10T04:38:58.000Z"
+        },
+        {
+            "id": 2235259,
+            "content_html": "",
+            "url": "https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca6037861.d.html",
+            "title": "ARK基金减持诺华制药、虎牙。",
+            "date_modified": "2021-07-10T04:13:54.000Z"
+        },
+        {
             "id": 2235256,
             "content_html": "",
             "url": "https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4636063.d.html",
@@ -386,27 +400,6 @@
             "url": "https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5972469.d.html",
             "title": "欧洲地中海地震中心：斐济群岛南部发生5.0级地震。",
             "date_modified": "2021-07-09T20:18:38.000Z"
-        },
-        {
-            "id": 2235142,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-10/detail-ikqciyzk4572899.d.html",
-            "title": "美国商品期货交易委员会（CFTC）：截至7月6日当周，美元投机性净空头押注降至83亿美元，创4月以来新低。",
-            "date_modified": "2021-07-09T19:39:15.000Z"
-        },
-        {
-            "id": 2235141,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5970620.d.html",
-            "title": "美国商品期货交易委员会（CFTC）：截至7月6日当周，COMEX铜期货投机性净多头头寸增加4930手至32506手。",
-            "date_modified": "2021-07-09T19:34:47.000Z"
-        },
-        {
-            "id": 2235140,
-            "content_html": "",
-            "url": "https://finance.sina.cn/7x24/2021-07-10/detail-ikqcfnca5970577.d.html",
-            "title": "美国商品期货交易委员会（CFTC）：截至7月6日当周，投机者将CBOT美国10年期国债期货合约净空头头寸减少34367手至25593手。",
-            "date_modified": "2021-07-09T19:33:48.000Z"
         }
     ]
 }
