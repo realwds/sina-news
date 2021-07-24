@@ -4,11 +4,53 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 24 Jul 2021 04:04:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 04:45:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【江苏启动防台风Ⅲ级应急响应】根据《江苏省防御台风应急预案》有关规定，江苏省防汛抗旱指挥部决定，2021年7月24日10时启动江苏省防台风Ⅲ级应急响应。各地各有关部门切实加强值班值守，按照防台预案的要求，落实各项防台措施，全力做好台风防御工作。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8760180.d.html</link>
+            <guid>2251374</guid>
+            <pubDate>Sat, 24 Jul 2021 04:45:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[广东中山市全员核酸采样5463760人次，结果均为阴性。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7361809.d.html</link>
+            <guid>2251372</guid>
+            <pubDate>Sat, 24 Jul 2021 04:38:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【联合国气候主管敦促发达国家兑现气候资金承诺】联合国气候变化框架公约秘书处执行秘书埃斯皮诺萨于当地时间23日呼吁二十国集团(G20)国家展现出必要的领导力，以实现气候变化《巴黎协定》的1.5摄氏度温控目标。她特别敦促发达国家兑现其2020年前每年向发展中国家提供一千亿美元气候资金的承诺。（中国新闻网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7361385.d.html</link>
+            <guid>2251371</guid>
+            <pubDate>Sat, 24 Jul 2021 04:35:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【银保监会：银行业已准备救灾资金462亿元】据银保监会消息，银行业、保险业正在加大力度支持河南防汛救灾。初步统计，目前各银行机构已准备救灾资金462.11亿元，已发放51.93亿元。保险方面，截至22日，河南保险业累计接到报案17.69万件，估损金额58.27亿元。截至23日12时，赔付6137件，赔款3.68亿元。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8756371.d.html</link>
+            <guid>2251369</guid>
+            <pubDate>Sat, 24 Jul 2021 04:19:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【山东首笔碳排放配额质押贷款发放 61万吨碳排放配额获贷款3000万元】以61万吨碳排放配额作质押，7月21日，日照银行为山东煦国能源有限责任公司发放“绿碳贷”3000万元。据悉，这是山东省首笔碳排放配额质押贷款。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7358247.d.html</link>
+            <guid>2251368</guid>
+            <pubDate>Sat, 24 Jul 2021 04:12:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【央行副行长范一飞：央行将研究制定与国际接轨的绿色债券标准】中国人民银行副行长范一飞表示，下一步，人民银行会在尊重我国能源禀赋与产业结构基础上，研究制定与国际接轨的绿色债券标准，助力全球绿色金融发展。（上证报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7358218.d.html</link>
+            <guid>2251367</guid>
+            <pubDate>Sat, 24 Jul 2021 04:12:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[国家防总工作组组织召开会议统筹支持河南防汛救灾工作：强降雨过程趋缓，灾区抢险救援、恢复重建任务繁重。（新华网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8754449.d.html</link>
+            <guid>2251366</guid>
+            <pubDate>Sat, 24 Jul 2021 04:05:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【范一飞：充分发挥碳市场引导作用，逐步增强金融属性】中国人民银行副行长范一飞在“全球财富管理论坛2021北京峰会”上表示，中国碳市场发展空间巨大，碳市场本质上是金融市场，负责进行资金期限转换和风险管理。与普通大众商品市场相比，碳市场不仅有满足当前交易市场的基本功能，更重要的功能基于碳价格信号实现投资跨周期研讨，风险跨周期管理，属于典型的金融功能。只有发挥好碳价格信号在管理风险引导投资、稳定预期等方面的关键作用，承担有序引导全社会的低碳转型。（证券时报）]]></title>
             <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7355955.d.html</link>
@@ -356,36 +398,6 @@
             <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8693527.d.html</link>
             <guid>2251036</guid>
             <pubDate>Fri, 23 Jul 2021 22:37:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【美联储加息预期降温，欧洲美元看涨势头】美国商品期货交易委员会（CFTC）数据显示，截至7月20日当周，投机者和资管公司对欧洲美元期货进行看涨调整。报告期赶上了7月19日强劲的前期涨势，投机者大幅减少欧洲美元净空头头寸至870万美元/DV01，资管公司则将其净空头头寸减少50万美元/DV01。此外，资管公司本周对10年期美国国债期货进行了看跌调整，将净多头削减了720万美元/DV01。投机者本周还对5年期美国国债期货进行看涨调整，将净空头头寸减少580万美元/DV01。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7294649.d.html</link>
-            <guid>2251032</guid>
-            <pubDate>Fri, 23 Jul 2021 22:22:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【证监会：用好新证券法利剑，强化监管执法震慑】证监会处罚委办公室副主任董文媛介绍，近年来，证监会持续加大对财务造假、操纵市场等恶性违法案件的查处力度，坚决落实新证券法各项要求，切实提升资本市场违法违规成本，强化监管执法震慑。近日，首批适用新证券法惩处财务造假恶性案件已进入事先告知阶段或作出行政处罚决定，最高拟处以近4000万元罚款。（中证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8691972.d.html</link>
-            <guid>2251031</guid>
-            <pubDate>Fri, 23 Jul 2021 22:21:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【Mini LED市场爆发在即，相关公司迎来机构扎堆调研】近期，英飞特、瑞丰光电、聚飞光电、三安光电等公司股价接连大涨。业内人士表示，其背后逻辑是Mini LED市场爆发在即：随着索尼、三星等大屏产品的推出，Mini/Micro LED今年开始快速渗透，大屏市场开启快速增长；与此同时，在苹果介入后，Mini LED小屏市场有望快速形成规模。这将给LED板块带来强劲的增长动力。Choice数据显示，近3个月以来，有23家LED概念股披露了机构调研情况，数家公司被多次调研。（上证报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8690715.d.html</link>
-            <guid>2251028</guid>
-            <pubDate>Fri, 23 Jul 2021 21:59:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙首相桑切斯：预计未来几年苹果公司将增加在西班牙的投资，苹果将在西班牙投资人工智能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqciyzk7293296.d.html</link>
-            <guid>2251027</guid>
-            <pubDate>Fri, 23 Jul 2021 21:58:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[西班牙首相桑切斯：西班牙方面将向初创企业基金投入20亿欧元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-07-24/detail-ikqcfnca8690593.d.html</link>
-            <guid>2251026</guid>
-            <pubDate>Fri, 23 Jul 2021 21:55:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
