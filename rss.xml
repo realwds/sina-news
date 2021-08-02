@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Mon, 02 Aug 2021 04:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Aug 2021 04:52:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【三星据称可能调涨晶圆代工价格】韩国晶圆代工大厂三星电子上周透露会调涨晶圆代工价格。据科技网站Tom’s Hardware、SoyaCincau报导指出，三星投资者关系部资深副总裁Ben Suh日前在法说会上表示，三星晶圆代工事业有望加速成长，主要是透过扩充平泽S5生产线、调整定价以支援未来投资循环的方式。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0436972.d.html</link>
+            <guid>2264637</guid>
+            <pubDate>Mon, 02 Aug 2021 04:37:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[据公司文件显示，马来西亚国家石油公司将7月份马来西亚原油官方售价定为76.88美元/桶。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqciyzk9039259.d.html</link>
+            <guid>2264635</guid>
+            <pubDate>Mon, 02 Aug 2021 04:33:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【机构：第四季度面板降价幅度有限 明年上半年将出现变化】据市场研究机构Omdia发布报告指出，预估大尺寸面板价格将自2021年8月至9月之间开始下行，但在材料瓶颈与生产调整因素，以及需求的价格弹性尚未有启动的条件之下，2021 年下半年液晶电视面板降价幅度将有限。Omdia对于2008-2022年间液晶循环与需求弹性变化分析表明，2022年上半年将出现较大的价格下跌。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0435100.d.html</link>
+            <guid>2264633</guid>
+            <pubDate>Mon, 02 Aug 2021 04:27:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【媒体：广州趣丸网络科技或将IPO地点转至香港】IFR援引消息人士报道，广州趣丸网络科技有限公司正在研究将IPO地点由美国转至香港的计划。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0434523.d.html</link>
@@ -20,18 +38,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqciyzk9037200.d.html</link>
             <guid>2264630</guid>
             <pubDate>Mon, 02 Aug 2021 04:22:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【2021年《财富》世界500强排行榜揭晓：中国国家电网公司上升至第二位 沃尔玛、亚马逊位列第一、第三】今年，沃尔玛连续第八年成为全球最大公司，中国的国家电网公司上升至第二位，亚马逊首次进入前三，苹果公司前进至第6位。在盈利方面，苹果以574亿美元的利润位居榜首。沙特阿美紧随其后，以约493亿美元的利润位列第二。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0433635.d.html</link>
-            <guid>2264629</guid>
-            <pubDate>Mon, 02 Aug 2021 04:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【2021财富世界500强公布 143家中国企业上榜】今日2021年《财富》世界500强排行榜正式发布。今年的榜单里，中国大陆（含香港）上榜公司数量连续第二年居首，达到135家，比上一年增加11家。加上台湾地区企业，中国共有143家公司上榜。今年，美国共计122家公司上榜，比上一年增加1家。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0433160.d.html</link>
-            <guid>2264627</guid>
-            <pubDate>Mon, 02 Aug 2021 04:16:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[汇丰控股：上半年的科技投资约30亿美元，较去年同期上升4%。]]></title>
@@ -301,24 +307,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqciyzk9011147.d.html</link>
             <guid>2264535</guid>
             <pubDate>Mon, 02 Aug 2021 02:40:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[证券板块持续走高，东方证券涨超7%，南京证券、光大证券、中金公司跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqciyzk9010910.d.html</link>
-            <guid>2264533</guid>
-            <pubDate>Mon, 02 Aug 2021 02:39:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【腾讯：网络水军在吴亦凡事件中造谣诱导集资，已严肃处置】据鹅厂黑板报微信公众号消息，近日，通过用户举报和安全巡查发现，在吴亦凡因涉嫌强奸罪被依法刑事拘留一事中，存在部分网络水军在平台造谣攻击、诱导集资、制造话题等有害行为。对此，平台对于发布传播相关不良信息的账号进行了严肃处置。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0407793.d.html</link>
-            <guid>2264532</guid>
-            <pubDate>Mon, 02 Aug 2021 02:38:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【林洋能源：公司的自持光伏电站目前正在做CCER（核准自愿减排量）的开发项目备案手续】林洋能源在互动平台表示，公司一直在关注全国统一碳排放权交易市场的进展，同时公司的自持光伏电站目前正在做CCER（核准自愿减排量）的开发项目备案手续，公司已有储备多名上海环境能源交易所培训认证的碳排放交易员。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-02/detail-ikqcfncc0407716.d.html</link>
-            <guid>2264531</guid>
-            <pubDate>Mon, 02 Aug 2021 02:38:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
