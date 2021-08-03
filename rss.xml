@@ -4,11 +4,40 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 03 Aug 2021 04:26:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Aug 2021 04:52:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[东北证券：给予航天机电增持的初始评级，目标价12元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9255019.d.html</link>
+            <guid>2265951</guid>
+            <pubDate>Tue, 03 Aug 2021 04:48:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[法国兴业银行第二季度营收62.6亿欧元，市场预估58.1亿欧元；第二季度净利润14.4亿欧元，市场预估8.918亿欧元。]]></title>
+            <guid>2265949</guid>
+            <pubDate>Tue, 03 Aug 2021 04:46:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【韩国防部：朝韩进行海上舰艇间无线电通讯】当地时间8月3日上午，据韩国国防部消息，当天上午韩方使用国际商船公用频率对朝鲜进行了无线电呼，朝鲜随即进行了回应。这标志着朝韩重启位于朝鲜半岛西部海域上的舰艇间无线电通讯。此前，朝韩于7月27日恢复了板门店热线电话以及东西海岸军事热线的沟通，此次舰艇间无线电通讯的成功联络标志着朝韩间所有军事沟通渠道已全面恢复。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9253388.d.html</link>
+            <guid>2265946</guid>
+            <pubDate>Tue, 03 Aug 2021 04:39:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[渣打集团：预期贷款损失率较今年早前所预期更迟才返回较正常化水平。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0649702.d.html</link>
+            <guid>2265935</guid>
+            <pubDate>Tue, 03 Aug 2021 04:33:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【金科文化：公司产品已按照相关要求接入防沉迷系统 规范运作】金科文化在互动平台表示，公司产品主要为积极健康、寓教于乐的休闲类亲子互动应用，用户平均在线时长不超过1小时，不会导致用户沉迷。公司用户70%以上分布在海外全球各个国家与地区，同时公司本着社会责任优先的原则，已按照相关要求接入防沉迷系统，规范运作。公司亲子主题乐园业务处于起步阶段，近期仍在着力推进快速拓店工作，争取早日完成“百店计划”。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0648436.d.html</link>
+            <guid>2265926</guid>
+            <pubDate>Tue, 03 Aug 2021 04:27:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[渣打集团：2021年的全年收入按固定汇率基准计算，将与2020年相若。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0647611.d.html</link>
@@ -246,89 +275,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9222738.d.html</link>
             <guid>2265844</guid>
             <pubDate>Tue, 03 Aug 2021 02:36:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【游戏股普跌  经参批网络游戏成“精神鸦片”】经济参考报将网络游戏比作新型“毒品”，称“精神鸦片”竟长成数千亿产业，警惕网络游戏危害，应及早合理规范。A股方面，三七互娱跌超6.4%，完美世界跌超7.7%；港股方面，腾讯控股跌超10%，网易跌超14%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9221939.d.html</link>
-            <guid>2265841</guid>
-            <pubDate>Tue, 03 Aug 2021 02:33:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[快手跌超6%，报104港元，续刷历史新低，最新市值约4335亿港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9221874.d.html</link>
-            <guid>2265840</guid>
-            <pubDate>Tue, 03 Aug 2021 02:33:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美团股价跌幅扩大至7.5％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0619075.d.html</link>
-            <guid>2265839</guid>
-            <pubDate>Tue, 03 Aug 2021 02:32:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[比亚迪A股跌幅扩大至4.4％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9220572.d.html</link>
-            <guid>2265837</guid>
-            <pubDate>Tue, 03 Aug 2021 02:28:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【媒体：人工智能初创企业第四范式计划在香港进行规模6亿美元的IPO】IFR援引消息人士的话报道称，红杉资本投资的人工智能初创公司第四范式计划最早今年在香港IPO，拟筹资约6亿美元。第四范式正在与美国银行、中金和高盛就上市事宜进行合作；预计本月将提交上市申请。上周，第四范式向中国证监会提交了境外上市审批材料。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9220300.d.html</link>
-            <guid>2265836</guid>
-            <pubDate>Tue, 03 Aug 2021 02:27:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【巴西今年7月实现外贸顺差73.95亿美元 为历史同期第二好成绩】巴西经济部当地时间8月2日公布数据显示，今年7月，巴西外贸实现顺差73.95亿美元，为该国历史上同期第二好成绩，仅次于去年同期的76.01亿美元。数据显示，巴西7月出口额为255.29亿美元，同比增长37.5%。其中，农产品、矿产品和工业品出口分别同比增长11.2%、62.7%和37.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9219423.d.html</link>
-            <guid>2265832</guid>
-            <pubDate>Tue, 03 Aug 2021 02:23:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美团股价跌幅扩大至4.1％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9219314.d.html</link>
-            <guid>2265831</guid>
-            <pubDate>Tue, 03 Aug 2021 02:23:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【铂科新材：公司合金软磁粉芯制成的高频电感可用于储能电站的储能系统中】铂科新材在互动平台表示，公司合金软磁粉芯制成的高频电感可用于储能电站的储能系统中，预计未来将伴随着储能电站的普及而得到更加广泛的应用。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9219283.d.html</link>
-            <guid>2265830</guid>
-            <pubDate>Tue, 03 Aug 2021 02:22:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【上海银行获批筹建理财子公司 理财规模位居城商行首位】8月2日晚间，上海银行发布公告称，近日收到银保监会批复，获准筹建上银理财有限责任公司。根据公告，筹建工作完成后，上海银行将按照有关规定和程序正式提出开业申请。至此，已有29家银行理财子公司获批筹建，理财子队伍日益扩大。数据显示，截至今年6月末，上海银行存续非保本理财产品规模超4100亿元，继续保持城商行第一。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0616394.d.html</link>
-            <guid>2265829</guid>
-            <pubDate>Tue, 03 Aug 2021 02:22:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【宁德时代投资江西升华 后者从事锂电池正极材料业务】天眼查App显示，8月2日，江西升华新材料有限公司发生多项工商变更，新增股东宁德时代新能源科技股份有限公司等；同时注册资本由2.2亿元增至6.76亿元。江西升华新材料有限公司成立于2015年7月，官网信息显示，江西升华为从事锂电池正极材料研发、生产和销售的高新技术企业。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9218883.d.html</link>
-            <guid>2265828</guid>
-            <pubDate>Tue, 03 Aug 2021 02:21:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  港股哔哩哔哩跌幅扩大至10%，此前，经济参考报发文称，“精神鸦片”竟长成数千亿产业，警惕网络游戏危害，应及早合理规范。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqciyzk9218184.d.html</link>
-            <guid>2265825</guid>
-            <pubDate>Tue, 03 Aug 2021 02:19:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  盐湖提锂概念股持续下行，唯赛勃、久吾高科双双跌超10%，西藏矿业、西藏珠峰、蓝晓科技、西藏城投等跌超7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0615443.d.html</link>
-            <guid>2265824</guid>
-            <pubDate>Tue, 03 Aug 2021 02:19:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【瑞信发行37.5亿美元债券 仍在打扫Archegos爆仓后残局】瑞信集团发行了37.5亿美元债券；这家总部位于苏黎世的银行正在从Archegos Capital Management爆仓导致的损失中恢复元气。该行上次进入美国高评级市场发债还是5月份的事。瑞信在今年3月家族理财室Archegos Capital Management倒闭事件中的风险敞口，导致了自己至少55亿美元的损失和全面改革。]]></title>
-            <guid>2265821</guid>
-            <pubDate>Tue, 03 Aug 2021 02:18:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[红杉资本投资的第四范式计划在香港进行规模6亿美元的IPO。（IFR）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-03/detail-ikqcfncc0614401.d.html</link>
-            <guid>2265816</guid>
-            <pubDate>Tue, 03 Aug 2021 02:13:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
