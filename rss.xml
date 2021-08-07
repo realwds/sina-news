@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 07 Aug 2021 04:26:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Aug 2021 04:51:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【承德通报3名密接者详情：轨迹涉北京西站】河北承德双桥区通报3名密接者详情：为一家三口，活动轨迹涉北京西站、长沙南站。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1478833.d.html</link>
+            <guid>2271600</guid>
+            <pubDate>Sat, 07 Aug 2021 04:48:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【美国男篮夺得东京奥运会冠军】刚刚结束的东京奥运会男子篮球决赛中，美国男篮以87：82击败法国男篮成功卫冕的同时，取得该项目的四连冠。此役，球星杜兰特砍下29分，成为球队夺冠的最大功臣。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqcfncc1475712.d.html</link>
+            <guid>2271581</guid>
+            <pubDate>Sat, 07 Aug 2021 04:29:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【深圳金融业两年平均增速7.8%，居国内主要金融城市首位】 今年以来深圳金融业保持稳中向好、稳中加固的态势，助力经济高质量发展。初步统计，1-6月金融业实现增加值2247.85亿元，同比增长6.6%，两年平均增速7.8%，居国内主要金融城市首位。据了解，金融业增加值占全市GDP的15.8%。在今年3月最新一期“全球金融中心指数”（GFCI29）中，深圳位列全球第八名。（深圳发布）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-07/detail-ikqciyzm0077084.d.html</link>
