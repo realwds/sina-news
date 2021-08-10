@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 10 Aug 2021 04:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Aug 2021 04:51:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【亿纬锂能等61股获北向资金连续5天增持】近5个交易日（8月3日-8月9日）共有61只个股获北向资金连续5天增持。5天累计净买入金额在5000万元以上的有31只，其中11只累计净买入额超2亿元。获北向资金连续增持前5名的个股分别是亿纬锂能、生益科技、永太科技、三环集团、华域汽车。亿纬锂能获北向资金5天累计净买入约5.23亿元，位居连续增持榜首。（证券时报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc2005608.d.html</link>
+            <guid>2274506</guid>
+            <pubDate>Tue, 10 Aug 2021 04:39:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【二六三成为5G消息工作组第一批理事单位】二六三入选5G消息工作组首批理事单位名单。5G消息工作组由中国通信企业协会和中国信息通信研究院共同倡议发起组建，致力于推动5G消息产业生态健康发展。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc2003417.d.html</link>
+            <guid>2274503</guid>
+            <pubDate>Tue, 10 Aug 2021 04:26:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[九龙仓上半年营收123.4亿港元，净利润10.4亿港元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0605203.d.html</link>
@@ -412,30 +424,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1964155.d.html</link>
             <guid>2274407</guid>
             <pubDate>Tue, 10 Aug 2021 01:47:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【联合国预测全球升温1.5度时间提前10年】联合国政府间气候变化专门委员会（IPCC)9日发布预测称，与工业革命前相比的世界气温上升在2021～2040年达到1.5度。与2018年的预测相比提前约10年。断言称人类活动对温暖化的影响“无可质疑”。专门委员会指出，要抑制导致自然灾害增加的气候变暖，有必要使二氧化碳排放量实际为零。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1963803.d.html</link>
-            <guid>2274404</guid>
-            <pubDate>Tue, 10 Aug 2021 01:46:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股快手涨9.5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqcfncc1963587.d.html</link>
-            <guid>2274402</guid>
-            <pubDate>Tue, 10 Aug 2021 01:45:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[恒大汽车涨幅收窄至3.11%，现报12.6港元，此前一度涨超8%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0565936.d.html</link>
-            <guid>2274401</guid>
-            <pubDate>Tue, 10 Aug 2021 01:45:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[锂电股继续活跃，长荣股份、兆新股份、鞍重股份涨停，蓝海华腾、星云股份涨超10%，百川股份、金银河、欣旺达等大幅跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-10/detail-ikqciyzm0565161.d.html</link>
-            <guid>2274398</guid>
-            <pubDate>Tue, 10 Aug 2021 01:42:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
