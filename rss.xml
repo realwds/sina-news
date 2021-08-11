@@ -4,11 +4,35 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Wed, 11 Aug 2021 04:26:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Aug 2021 04:52:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[  【上海刚刚发布暴雨黄色预警，目前“两黄”双预警高挂】上海中心气象台8月11日12时38分更新暴雨蓝色为暴雨黄色预警信号：受较强的降水云团影响，预计未来6小时内中心城区、宝山、浦东、崇明等地将出现一小时最大雨强50毫米以上的短时强降水，暴雨蓝色预警信号更新为暴雨黄色预警信号。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2211129.d.html</link>
+            <guid>2275566</guid>
+            <pubDate>Wed, 11 Aug 2021 04:46:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【阿富汗塔利班宣称又攻占2个北部省首府 已控制阿富汗9个省会】当地时间11日，阿富汗塔利班宣称占领了阿富汗北部巴达赫尚省首府法扎巴德市，和巴格兰省首府普勒胡姆里市。至此，塔利班已宣称控制阿富汗9个省会。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2209949.d.html</link>
+            <guid>2275564</guid>
+            <pubDate>Wed, 11 Aug 2021 04:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【浙江整治快递业：严查未经同意放到代收点】浙江省市场监管局联合省邮政管理局，正对全省快递行业服务行为开展联合整治。三类快递问题被列入重点整治范围：一是未经收件人同意，将快件放置到驿站、智能快件箱、乡镇网点或其他代收点，不按约定名址投递；二是以超派送范围或经营困难等为由，强行向收件人加收额外派送费、运输费、保管费等；三是延误、虚假签收等其它降低快递服务标准的行为。（澎湃）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2209371.d.html</link>
+            <guid>2275561</guid>
+            <pubDate>Wed, 11 Aug 2021 04:35:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[  【集邦咨询：预估第三季旺季需求将带动Server DRAM涨幅达5-10%】TrendForce集邦咨询调查显示，整体而言，需求端的采购态度较今年上半年已经明显转变，随着服务器与PC等诸多应用需求逐渐走弱，整体DRAM市场将逐渐进入供过于求的态势。由于DRAM产业属寡占格局，目前供应商仍有相当程度的议价能力，预期第三季server DRAM报价仍能较上一季度上扬5~10%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2208604.d.html</link>
+            <guid>2275555</guid>
+            <pubDate>Wed, 11 Aug 2021 04:31:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[百度：将于8月18日召开百度世界大会。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2205932.d.html</link>
@@ -350,59 +374,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2169416.d.html</link>
             <guid>2275460</guid>
             <pubDate>Wed, 11 Aug 2021 01:46:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[哔哩哔哩港股盘中跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqciyzm0771005.d.html</link>
-            <guid>2275458</guid>
-            <pubDate>Wed, 11 Aug 2021 01:43:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  储能板块继续走强，创业板和顺电气涨停，科泰电源、大烨智能、四方股份、英维克、盛弘股份等涨幅居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqciyzm0770537.d.html</link>
-            <guid>2275455</guid>
-            <pubDate>Wed, 11 Aug 2021 01:42:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股中国恒大涨超10％，恒大汽车涨超5％，恒大拟出售恒大物业和恒大汽车部分权益，尚未签正式协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqciyzm0770009.d.html</link>
-            <guid>2275454</guid>
-            <pubDate>Wed, 11 Aug 2021 01:40:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股中国恒大涨超10%， 恒大汽车涨超5%，恒大拟出售恒大物业和恒大汽车部分权益，尚未签正式协议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqciyzm0769522.d.html</link>
-            <guid>2275449</guid>
-            <pubDate>Wed, 11 Aug 2021 01:38:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【兆驰股份：不排除向上游原材料方向发展的可能】兆驰股份在互动平台表示，晶圆供应问题未对公司芯片生产产生重大影响。公司各业务群已形成资源互补、优势共济的内生发展模式，各业务板块间能够形成良好的业务协同效应，未来将持续向产业链上下游拓展，不排除向上游原材料方向发展的可能。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqciyzm0769498.d.html</link>
-            <guid>2275448</guid>
-            <pubDate>Wed, 11 Aug 2021 01:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[港股内房股集体走高，中国恒大以7%涨幅领涨，融创中国涨6.5%，华润置地、万科企业与绿城中国涨超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2166709.d.html</link>
-            <guid>2275447</guid>
-            <pubDate>Wed, 11 Aug 2021 01:36:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【首批16个“绿色货运配送示范城市”出炉】近日，交通运输部、公安部、商务部印发通报，决定命名天津市、石家庄市、衡水市、鄂尔多斯市、苏州市、厦门市、安阳市、襄阳市、十堰市、长沙市、广州市、深圳市、成都市、泸州市、兰州市、银川市为首批“绿色货运配送示范城市”。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2166625.d.html</link>
-            <guid>2275446</guid>
-            <pubDate>Wed, 11 Aug 2021 01:36:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[工信部发布关于《享受车船税减免优惠的节约能源 使用新能源汽车车型目录》（第三十批）拟发布内容的公示：比亚迪秦PLUS、比亚迪F5在列。]]></title>
-            <guid>2275445</guid>
-            <pubDate>Wed, 11 Aug 2021 01:35:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  地产股开盘再度走高，保利地产涨逾8%，万科A、金地集团、新城控股、华侨城A等继续冲高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-11/detail-ikqcfncc2165817.d.html</link>
-            <guid>2275441</guid>
-            <pubDate>Wed, 11 Aug 2021 01:33:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
