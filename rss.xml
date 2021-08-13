@@ -4,391 +4,278 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Fri, 13 Aug 2021 02:00:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Aug 2021 04:26:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[  【国家邮政局：1-7月邮政行业业务收入累计完成7145.3亿元 同比增长20.9%】国家邮政局数据显示，1-7月，邮政行业业务收入（不包括邮政储蓄银行直接营业收入）累计完成7145.3亿元，同比增长20.9%；业务总量累计完成7513.9亿元，同比增长32.5%。7月份，全行业业务收入完成1001.4亿元，同比增长13.6%；业务总量完成1089.1亿元，同比增长22.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2581832.d.html</link>
-            <guid>2278144</guid>
-            <pubDate>Fri, 13 Aug 2021 01:56:22 GMT</pubDate>
+            <title><![CDATA[  中国地震台网自动测定：08月13日12时21分在青海果洛州玛多县附近（北纬34.55度，东经97.52度）发生5.9级左右地震，最终结果以正式速报为准。]]></title>
+            <guid>2278263</guid>
+            <pubDate>Fri, 13 Aug 2021 04:25:35 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  盐湖提锂概念股早盘继续走强，西藏矿业、东华科技涨停，西藏城投、蓝晓科技、久吾高科、西藏珠峰等大幅走高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2581708.d.html</link>
-            <guid>2278142</guid>
-            <pubDate>Fri, 13 Aug 2021 01:55:50 GMT</pubDate>
+            <title><![CDATA[【阿富汗塔利班宣布攻占阿第二和第三大城市 已占领14个省首府】当地时间13日，阿富汗塔利班发言人穆贾希德在社交媒体上发布声明称，塔利班占领了阿第二大城市——坎大哈省首府坎大哈市。此外塔利班还声称占领了阿第三大城市——赫拉特省首府赫拉特市，以及赫尔曼德省首府拉什卡尔加和巴德吉斯省首府瑙堡。至此，从本月6日塔利班占领第一座省会城市以来，在大约1周的时间里，塔利班宣布已攻占14座省会城市。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2615801.d.html</link>
+            <guid>2278262</guid>
+            <pubDate>Fri, 13 Aug 2021 04:19:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【科顺股份：与恒大地产的业务合作无逾期应收情况】科顺股份在互动平台表示，公司自2017年起与恒大地产的业务合作非常少，也无逾期应收情况。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1183199.d.html</link>
-            <guid>2278141</guid>
-            <pubDate>Fri, 13 Aug 2021 01:54:54 GMT</pubDate>
+            <title><![CDATA[【第五届中国-阿拉伯国家博览会线上博览会启动】第五届中国-阿拉伯国家博览会将于8月19—22日举行。线上博览会日前在宁夏银川正式启动。第五届中阿博览会线上博览会充分运用数字化会议和展览手段，依托5G、人工智能、大数据、云计算等新一代信息技术，通过搭建云展馆、云商城，开展云洽谈、云签约，积极引导国内外企业线上参会参展，吸引更多观众云逛展、云采购。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2615244.d.html</link>
+            <guid>2278259</guid>
+            <pubDate>Fri, 13 Aug 2021 04:16:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【我国首个光伏储能实证实验平台科研功能全面启动】近日，大庆新能源科技研发中心正式揭牌成立，并发布首批“揭榜挂帅”科研课题，组织业内专家召开了光伏储能行业技术研讨会，并对技术问题进行选题讨论，更好地组织科技研发方向，这标志着国家首个光伏、储能实证实验平台的科研功能全面启动。]]></title>
-            <guid>2278140</guid>
-            <pubDate>Fri, 13 Aug 2021 01:51:43 GMT</pubDate>
+            <title><![CDATA[【中国二季度打印外设市场出货量为479.4万台 同比下降11.9%】据IDC咨询(北京)有限公司8月13日消息，IDC最新发布的《中国打印外设市场季度跟踪报告（2021年第二季度）》显示，2021年第二季度，中国打印外设市场出货量为479.4万台，同比下降11.9%。其中喷墨打印机出货量187.8万台，同比下降0.1%；激光打印机出货量237.2万台，同比下降19.7%；针式打印机出货量54.5万台，同比下降10.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1216349.d.html</link>
+            <guid>2278257</guid>
+            <pubDate>Fri, 13 Aug 2021 04:14:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[A股储能板块开盘回调，永福股份跌超12%，科华数据逼近跌停，百川股份、盛弘股份、英维克、锦浪科技等跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1181556.d.html</link>
-            <guid>2278139</guid>
-            <pubDate>Fri, 13 Aug 2021 01:48:36 GMT</pubDate>
+            <title><![CDATA[  【外媒：塔利班释放监狱所有囚犯】综合法新社等外媒消息，塔利班13日声称已占领阿富汗第二大城市坎大哈。该国多名政界人士还证实，塔利班也已占领第三大城市赫拉特。阿富汗一名议员说，塔利班将所有囚犯从赫拉特监狱释放。包括省长在内的政府高官已在机场附近避难。 塔利班发言人对半岛电视台说，大城市被迅速占领，表明阿富汗人欢迎塔利班。他说：“我们不会关闭通往政治轨道的大门。”  （参考消息）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2613391.d.html</link>
+            <guid>2278255</guid>
+            <pubDate>Fri, 13 Aug 2021 04:09:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[厦门两小区解除封控，厦门市全域均为低风险地区。（北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1181519.d.html</link>
-            <guid>2278138</guid>
-            <pubDate>Fri, 13 Aug 2021 01:48:29 GMT</pubDate>
+            <title><![CDATA[  【长沙恒大一楼盘被住建局发文停售：未解押致购房者不能网签】8月10日，湖南长沙。宁乡市住建局一份文件称，恒大御景半岛未及时进行在建工程解押，造成业主购房后不能及时办理网签和合同备案，已责令暂停销售。项目部回应属实。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1214480.d.html</link>
+            <guid>2278252</guid>
+            <pubDate>Fri, 13 Aug 2021 04:07:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港股短视频概念股普跌，快手跌近3%，中国有赞跌2%，映客与微盟集团跌超1.6%。人民日报谈直播乱象危害未成年人。]]></title>
-            <guid>2278137</guid>
-            <pubDate>Fri, 13 Aug 2021 01:48:04 GMT</pubDate>
+            <title><![CDATA[【英伟达回应“数字假人”:只有14秒，主旨演讲不可能缺少真人】 8月12日，有媒体爆料称，英伟达3个月前举办的GTC线上峰会上，观众所看到的主旨演讲并非CEO黄仁勋本人，而是一个通过技术合成的“数字假人” 。英伟达发言人对《棱镜》确认，黄仁勋的主旨演讲视频总长度1小时48分钟，绝大多数为真人出镜，只有14秒为了展示3D仿真模拟平台的技术，而让虚拟的黄仁勋代为出场。该发言人表示，一个主旨演讲不可能缺少一个有血有肉的人，只有1:02:41-1:02:55的14秒为合成的虚拟人。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2611632.d.html</link>
+            <guid>2278246</guid>
+            <pubDate>Fri, 13 Aug 2021 04:01:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【华测导航：自动驾驶项目预计明年出货】华测导航乘用车自动驾驶项目取得新进展，公司已经成为哪吒汽车和浙江省某车企的自动驾驶位置单元业务定点供应商。公司相关负责人表示，上述项目周期为2021年至2026年，目前处于量产前的开发阶段，预计明年开始出货。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1181287.d.html</link>
-            <guid>2278136</guid>
-            <pubDate>Fri, 13 Aug 2021 01:47:35 GMT</pubDate>
+            <title><![CDATA[马来西亚第二季度GDP同比增长16.1%，预估为14.1%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2611463.d.html</link>
+            <guid>2278245</guid>
+            <pubDate>Fri, 13 Aug 2021 04:00:56 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[三星电子在韩国上涨3%。稍早消息，三星电子副会长李在镕获假释出狱。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1180866.d.html</link>
-            <guid>2278135</guid>
-            <pubDate>Fri, 13 Aug 2021 01:45:37 GMT</pubDate>
+            <title><![CDATA[马来西亚将2021年GDP增速预期下调至3-4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1212827.d.html</link>
+            <guid>2278244</guid>
+            <pubDate>Fri, 13 Aug 2021 04:00:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：卡塔尔提供al-Shaheen原油和卡塔尔陆地原油供10月装载。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1180589.d.html</link>
-            <guid>2278133</guid>
-            <pubDate>Fri, 13 Aug 2021 01:44:32 GMT</pubDate>
+            <title><![CDATA[  节能铁汉：公司为“合肥园博园景观绿化工程-2标段”的中标单位，中标金额为3.14亿元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2610772.d.html</link>
+            <guid>2278243</guid>
+            <pubDate>Fri, 13 Aug 2021 03:57:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  数字货币板块开盘下挫，赢时胜跌超8%，古鳌科技、芯原股份、楚天龙跟跌。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1180516.d.html</link>
-            <guid>2278132</guid>
-            <pubDate>Fri, 13 Aug 2021 01:44:14 GMT</pubDate>
+            <title><![CDATA[  【扬州主城区第七轮核酸检测已完成38.543万人 当日检出阳性6例】扬州市卫生健康委员会副主任王劲8月13日松介绍，8月12日13时起，扬州市开展了主城区第七轮大规模核酸检测，共设置采样点812个，抽调采样人员5726人，其中市外支援3000人。截至8月12日24时，累计采样144.935万人，完成检测38.543万人，8月12日大规模筛查检出阳性6例。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2608103.d.html</link>
+            <guid>2278239</guid>
+            <pubDate>Fri, 13 Aug 2021 03:44:45 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港股短视频概念股普跌，快手跌近3%，中国有赞跌2%，映客与微盟集团跌超1.6%。人民日报谈直播乱象危害未成年人。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2578479.d.html</link>
-            <guid>2278130</guid>
-            <pubDate>Fri, 13 Aug 2021 01:43:00 GMT</pubDate>
+            <title><![CDATA[【郭美美销售有毒有害食品案开庭】记者从上海铁路运输法院了解到，2021年8月13日上午，上铁法院对被告人郭美美、汪邹雅销售有毒、有害食品一案进行了公开开庭审理。公诉机关指控，被告人郭美美、汪邹雅分别自2021年1月、2月起，在明知上家赵某（另案处理）处所销售的减肥糖可能非法添加西布曲明的情况下，仍各自以每盒699元等单价对外销售。至案发，被告人郭美美销售减肥糖100余盒，收款人民币7万余元。公诉机关认为，被告人郭美美、汪邹雅的行为均已构成销售有毒、有害食品罪。庭审结束后，上铁法院将择期对本案进行宣判。（人民日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1209354.d.html</link>
+            <guid>2278237</guid>
+            <pubDate>Fri, 13 Aug 2021 03:43:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  军工板块早盘走强，长鹰信质涨停，国瑞科技涨逾17%，新研股份、中国船舶、久之洋、西宁特钢等涨幅居前。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1179990.d.html</link>
-            <guid>2278129</guid>
-            <pubDate>Fri, 13 Aug 2021 01:41:57 GMT</pubDate>
+            <title><![CDATA[【扬州：目前共有高风险地区9个 中风险地区27个】今日，扬州市卫生健康委员会副主任王劲松介绍：2021年8月12日，扬州市对相近风险区域合并，对扬州市区域风险等级重新划定，截至目前，扬州市共有高风险地区9个，中风险地区27个。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1208841.d.html</link>
+            <guid>2278236</guid>
+            <pubDate>Fri, 13 Aug 2021 03:41:02 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[锂电池板块开盘拉升，兆新股份再度涨停，科恒股份涨超12%，宁德时代涨超2%，科信技术、长远锂科跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2578174.d.html</link>
-            <guid>2278128</guid>
-            <pubDate>Fri, 13 Aug 2021 01:41:49 GMT</pubDate>
+            <title><![CDATA[中信证券：将工业富联评级上调至买进，目标价18元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2607103.d.html</link>
+            <guid>2278235</guid>
+            <pubDate>Fri, 13 Aug 2021 03:40:21 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【国务院联防联控机制发布“戴口罩指引”新要求：人员密集的室外场所也需戴口罩】国务院联防联控机制今天发布新版的《公众和重点职业人群戴口罩指引（2021年8月版）》，对普通公众来说，除了在密闭场所需要戴口罩外，当处于人员密集的露天广场、剧场和公园等室外场所时，也需要佩戴口罩。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1179560.d.html</link>
-            <guid>2278127</guid>
-            <pubDate>Fri, 13 Aug 2021 01:40:39 GMT</pubDate>
+            <title><![CDATA[【印度方面希望在实行减税措施之前了解特斯拉的采购计划】特斯拉今年7月致信印度总理莫迪政府，要求将电动汽车进口关税从目前的60%-100%降至40%。该公司还要求取消10%的社会福利附加税。这项附加税征收于所有进口汽车，用于资助医疗和教育项目。一位知情人士说，印度已要求特斯拉在政府考虑其要求之前，增加在当地的采购并分享详细的生产计划。该知情人士称，印度相关部门询问了特斯拉对进口整车与部分整车的想法（后者的进口税较低）。特斯拉未对此置评。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1207930.d.html</link>
+            <guid>2278232</guid>
+            <pubDate>Fri, 13 Aug 2021 03:37:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  半导体芯片股开盘走低，富满电子跌近8%，芯海科技、新莱应材、明微电子、康强电子、芯源微、兆易创新等跌超5%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1178501.d.html</link>
-            <guid>2278126</guid>
-            <pubDate>Fri, 13 Aug 2021 01:37:03 GMT</pubDate>
+            <title><![CDATA[【全国人大常委会法工委：家庭教育法草案二审稿对家庭教育服务机构超出许可业务范围的行为规定了处罚】为明确家庭教育指导服务机构、家庭教育服务机构的职责是指导和帮助家长更好地开展家庭教育，而不是为未成年人提供学科教育等服务，根据中央有关文件精神，草案二审稿进一步作出有针对性规定：一是，家庭教育指导服务机构开展家庭教育指导服务活动，不得组织或者变相组织营利性教育培训。二是，将公民、法人和非法人组织依法设立的家庭教育服务机构明确为“非营利性家庭教育服务机构”。三是，对家庭教育服务机构超出许可业务范围的行为规定了处罚。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1206179.d.html</link>
+            <guid>2278227</guid>
+            <pubDate>Fri, 13 Aug 2021 03:29:44 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[恒大概念股跳水，恒大汽车跌4.33%，恒大物业跌2.6%，中国恒大跌1.55%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2576185.d.html</link>
-            <guid>2278124</guid>
-            <pubDate>Fri, 13 Aug 2021 01:34:13 GMT</pubDate>
+            <title><![CDATA[  【郑州：重点人群第一轮核酸检测检出阳性9例 第二轮检测尚未有异常结果】郑州市第一轮重点人群核酸检测已全部完成，共检测696344人，检出阳性9例。截至8月12日24时，重点人群第二轮核酸检测累计采样607140人，检测544737人，尚未检出异常结果。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2603732.d.html</link>
+            <guid>2278224</guid>
+            <pubDate>Fri, 13 Aug 2021 03:24:46 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[宁德时代拉升转涨，此前一度跌超4%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1177789.d.html</link>
-            <guid>2278123</guid>
-            <pubDate>Fri, 13 Aug 2021 01:33:59 GMT</pubDate>
+            <title><![CDATA[  【全国人大常委会拟修法取消社会抚养费 支持有条件的地方探索设立父母育儿假】全国人大常委会法工委今天（13日）举行记者会，通报本次常委会会议拟审议的法律草案的主要情况。全国人大常委会法工委发言人臧铁伟表示，在优化生育政策方面，人口与计划生育法修正草案的主要规定包括实施一对夫妻可以生育三个子女政策、取消社会抚养费，删除与三孩生育政策不适应的规定等。修正草案还提出了多方面积极生育支持措施，其中包括国家采取支持措施，减轻家庭生育、养育、教育负担；支持有条件的地方探索设立父母育儿假等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2603533.d.html</link>
+            <guid>2278223</guid>
+            <pubDate>Fri, 13 Aug 2021 03:23:50 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【快讯：宁德时代概念、锂电设备股开盘冲高】福能东方拉升涨近15%，赢合科技、利元亨、先导智能、华自科技、星云股份等冲高。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2576068.d.html</link>
-            <guid>2278122</guid>
-            <pubDate>Fri, 13 Aug 2021 01:33:47 GMT</pubDate>
+            <title><![CDATA[  【美驻阿富汗使馆或搬往机场 美官员：方便快速撤离】8月12日起，#塔利班占领阿富汗第二大城市坎大哈#等多地。随着安全形势恶化，有美国官员透露，他们正考虑将美驻阿使馆搬到喀布尔的机场，以便在必要时候可以让外交人员以最快方式撤离。此外，美国国防部12日还表示，将暂时增派约3000名美军前往阿富汗协助外交人员撤离。  （中新网）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1204596.d.html</link>
+            <guid>2278222</guid>
+            <pubDate>Fri, 13 Aug 2021 03:22:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港股医药外包概念股走强，康龙化成涨近4%，金斯瑞生物科技涨3.3%，药明生物涨2.25%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1177673.d.html</link>
-            <guid>2278121</guid>
-            <pubDate>Fri, 13 Aug 2021 01:33:24 GMT</pubDate>
+            <title><![CDATA[  【南京一幼师确诊】根据省卫健委8月13日发布，2021年8月12日0-24时，南京市新增新型冠状病毒肺炎本土确诊病例1例，轻型，无新增无症状感染者。新增出院病例5例。 7月20日以来，我市共报告本土确诊病例235例，累计出院36例。 目前，在定点医院隔离治疗的确诊病例199例（轻型45例，普通型154例）。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1203890.d.html</link>
+            <guid>2278220</guid>
+            <pubDate>Fri, 13 Aug 2021 03:19:18 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中芯国际A股跌超2.5%，上交所将中芯国际调出沪股通指数样本，保持沪股通标的和沪股通指数样本的一致性。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1177133.d.html</link>
-            <guid>2278118</guid>
-            <pubDate>Fri, 13 Aug 2021 01:31:15 GMT</pubDate>
+            <title><![CDATA[【生猪产能恢复正常 上半年湖南省地方猪产业产值增加100亿元】据湖南日报8月13日消息，随着一大批新增产能项目投产，湖南生猪产能已恢复到正常年份水平，规模养殖比重提升，产业结构不断优化。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1203409.d.html</link>
+            <guid>2278218</guid>
+            <pubDate>Fri, 13 Aug 2021 03:17:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【蓝普视讯：举报富满电子垄断芯片市场法院已立案 】蓝普视讯品牌部负责人表示，举报富满电子垄断芯片市场，法院已立案。 (第一财经)]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1176664.d.html</link>
-            <guid>2278117</guid>
-            <pubDate>Fri, 13 Aug 2021 01:30:04 GMT</pubDate>
+            <title><![CDATA[港股纸业股普涨，玖龙纸业涨4.6%，晨鸣纸业与理文造纸涨1.5%，阳光纸业涨1.14%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1203063.d.html</link>
+            <guid>2278217</guid>
+            <pubDate>Fri, 13 Aug 2021 03:15:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[7月28日至今，扬州市累计报告本土确诊病例超过500例，达到510例。（央视新闻）]]></title>
-            <guid>2278116</guid>
-            <pubDate>Fri, 13 Aug 2021 01:29:25 GMT</pubDate>
+            <title><![CDATA[  【郑州市138名感染者已全部完成流调】据郑州发布：郑州市138名感染者已全部完成流调，共追踪密接2515人、次密接8048人。 下一步，郑州市仍要坚持数据“战疫”与人工“赛跑”并重，创新运用“大数据+网格化”排查手段，按照尽快再快、限时完成、清仓见底要求，对密接、次密接、重点人员以及中高风险地区来郑人员做到查清人数、查清人头、查清位置、查清轨迹，实现人员排查无盲点、核酸检测零遗漏、管控措施全覆盖。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1202722.d.html</link>
+            <guid>2278215</guid>
+            <pubDate>Fri, 13 Aug 2021 03:13:24 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[龙佰集团大幅高开8.86%，公司拟投资20亿元建设年产20万吨锂离子电池材料产业化项目，拟投资15亿元建设年产10万吨锂离子电池用人造石墨负极材料项目，拟投资12亿元建设年产20万吨电池材料级磷酸铁项目，拟投资7亿元建设年产10万吨氯化法钛白粉扩能项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1176387.d.html</link>
-            <guid>2278115</guid>
-            <pubDate>Fri, 13 Aug 2021 01:29:02 GMT</pubDate>
+            <title><![CDATA[  【贵州国台酒业回应“前女员自曝酒后遭同事性侵”：积极配合调查】针对有媒体报道“贵州一酒企前女员工自曝7月11日晚间酒后遭同事性侵”一事，8月13日，贵州国台酒业股份有限公司微信公众号发布声明称，截至目前，公司虽未接到任何执法机关的相关信息，但对此事件高度重视，态度鲜明，根据相关执法机关的需要，将随时依法积极配合调查工作，同时密切关注事件进展，一切以执法机关调查结果为准，并及时全面向社会公开反馈。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2600178.d.html</link>
+            <guid>2278213</guid>
+            <pubDate>Fri, 13 Aug 2021 03:09:40 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[恒生科技指数跌1.26%，百度以3.21%跌幅垫底，同程艺龙跌2.69%，阿里健康跌2.46%，腾讯控股跌2.24%，美团跌近2%，阿里巴巴与京东健康、网易跌约1.7%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2574677.d.html</link>
-            <guid>2278114</guid>
-            <pubDate>Fri, 13 Aug 2021 01:28:41 GMT</pubDate>
+            <title><![CDATA[【人口与计划生育法修正草案提出了几方面积极生育支持措施】全国人大常委会法工委发言人臧铁伟表示，修正草案主要提出了如下几方面积极生育支持措施：一是，国家采取支持措施，减轻家庭生育、养育、教育负担。二是，要求医疗卫生机构开展围孕期、孕产期保健服务，加强对婴幼儿照护的支持和指导。三是，推动建立普惠托育服务体系，提高婴幼儿家庭获得服务的可及性和公平性，规范托育服务。四是，支持有条件的地方探索设立父母育儿假。五是，在居住社区建设婴幼儿活动场所及配套服务设施，在公共场所、工作场所按规定配置母婴设施。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1200715.d.html</link>
+            <guid>2278209</guid>
+            <pubDate>Fri, 13 Aug 2021 03:05:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[宁德时代开盘跌约4.3％，公司拟定增募资不超过582亿元，用于储能锂离子电池研发等项目。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2574225.d.html</link>
-            <guid>2278112</guid>
-            <pubDate>Fri, 13 Aug 2021 01:26:44 GMT</pubDate>
+            <title><![CDATA[  【国台办：坚决反对美方与中国台湾地区签署任何具有主权意涵的协议或进行有关活动】今日，国台办发言人马晓光答记者问。问：有媒体报道，近日台美根据今年3月签订的海巡合作备忘录，召开了首次工作小组会议。对此有何评论?答：我们坚决反对美方与中国台湾地区签署任何具有主权意涵的协议或进行有关活动。我们敦促美方在台湾问题上切实恪守一个中国原则和中美三个联合公报规定,停止向“台独”分裂势力发出错误信号。民进党当局勾连外部势力，谋“独”拒统，只会把台湾推向灾难。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1200236.d.html</link>
+            <guid>2278207</guid>
+            <pubDate>Fri, 13 Aug 2021 03:03:33 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[三大股指低开，沪指跌0.29％，深成指跌0.42％，创业板跌0.77％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1175765.d.html</link>
-            <guid>2278110</guid>
-            <pubDate>Fri, 13 Aug 2021 01:26:25 GMT</pubDate>
+            <title><![CDATA[市场消息：在实行任何减税措施之前，印度方面想要知道特斯拉的采购计划和路线图。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2598179.d.html</link>
+            <guid>2278205</guid>
+            <pubDate>Fri, 13 Aug 2021 03:01:48 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港股教育股下挫，中国东方教育跌超8%，新东方跌近4%，天立教育跌2.65%，华南职业教育跌2.17%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1175432.d.html</link>
-            <guid>2278107</guid>
-            <pubDate>Fri, 13 Aug 2021 01:25:08 GMT</pubDate>
+            <title><![CDATA[  【全国人大常委会拟修法取消社会抚养费】人口与计划生育法修正草案即将提请十三届全国人大常委会第三十次会议审议。全国人大常委会法工委发言人臧铁伟今天透露，草案拟取消社会抚养费，删除与三孩生育政策不适应的规定。草案还将规定：国家采取综合措施，推动实现适度生育水平，优化人口结构，促进人口长期均衡发展；国家提倡适龄婚育、优生优育，实施一对夫妻可以生育三个子女政策。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2597639.d.html</link>
+            <guid>2278203</guid>
+            <pubDate>Fri, 13 Aug 2021 03:00:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港股碳中和概念股走强，中国东方集团涨超13%，光大环境涨4.24%，水发兴业能源涨1.7%，福莱特玻璃与信义玻璃涨超0.85%，国金证券称因资源供应短缺看好锂行业板块行情。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1175225.d.html</link>
-            <guid>2278106</guid>
-            <pubDate>Fri, 13 Aug 2021 01:24:14 GMT</pubDate>
+            <title><![CDATA[三胎概念短线快速拉升， 爱婴室、江南高纤、延江股份、海伦钢琴集体上扬。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2597385.d.html</link>
+            <guid>2278202</guid>
+            <pubDate>Fri, 13 Aug 2021 02:59:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【中钢协：8月上旬重点统计钢铁企业粗钢日产204.39万吨，同比下降4.40%】据中国钢铁工业协会，2021年8月上旬，重点统计钢铁企业共生产粗钢2043.94万吨、生铁1832.61万吨、钢材1915.82万吨。其中，粗钢日产204.39万吨，环比下降2.97%、同比下降4.40%；生铁日产183.26万吨，环比下降2.66%、同比下降5.09%；钢材日产191.58万吨，环比下降9.46%、同比下降4.16%。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1174936.d.html</link>
-            <guid>2278105</guid>
-            <pubDate>Fri, 13 Aug 2021 01:22:58 GMT</pubDate>
+            <title><![CDATA[  钢铁板块走强，安阳钢铁封板，久立特材、西宁特钢此前涨停，山东钢铁、凌钢股份、重庆钢铁、八一钢铁等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1198875.d.html</link>
+            <guid>2278201</guid>
+            <pubDate>Fri, 13 Aug 2021 02:58:38 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[理想汽车港股上市次日跌0.85%，报116港元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2573183.d.html</link>
-            <guid>2278104</guid>
-            <pubDate>Fri, 13 Aug 2021 01:22:14 GMT</pubDate>
+            <title><![CDATA[中兴通讯短线走低，跌超5%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1196706.d.html</link>
+            <guid>2278193</guid>
+            <pubDate>Fri, 13 Aug 2021 02:49:17 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[港股恒指低开跌0.84％，国企指数跌0.96％。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1174600.d.html</link>
-            <guid>2278102</guid>
-            <pubDate>Fri, 13 Aug 2021 01:21:39 GMT</pubDate>
+            <title><![CDATA[  【三星掌门人李在镕假释出狱 释放后仍无法返回三星经营岗位】当地时间8月13日上午，韩国三星掌门人、三星电子副会长李在镕获假释出狱。从今年二审重审判决后，李在镕已被羁押207天。由于此次是假释而非特赦，他被释放后仍无法返回三星经营岗位。  （中国日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1196541.d.html</link>
+            <guid>2278191</guid>
+            <pubDate>Fri, 13 Aug 2021 02:48:37 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[人民币中间价报6.4799，下调45点，上一交易日中间价报6.4754，在岸人民币上一交易日收报6.4771。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2571462.d.html</link>
-            <guid>2278101</guid>
-            <pubDate>Fri, 13 Aug 2021 01:15:39 GMT</pubDate>
+            <title><![CDATA[港股腾讯控股小幅跳水，现跌幅扩大至3%，报467.4港元。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1195921.d.html</link>
+            <guid>2278190</guid>
+            <pubDate>Fri, 13 Aug 2021 02:45:43 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：必和必拓集团与智利Escondida铜矿工会要求将调解延期一天。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1171538.d.html</link>
-            <guid>2278098</guid>
-            <pubDate>Fri, 13 Aug 2021 01:09:22 GMT</pubDate>
+            <title><![CDATA[【广州天河林和街、石牌街实行全员核酸检测】广州市天河区政府副区长谢长林通报，天河区正加快组织核酸筛查。划定华庭路以南、华升街以北、天河东路以西、林和东路以东区域为重点管控区，已于8月12日24时前完成全员核酸检测，完成采样23341份，已出检测结果均为阴性。同时，适度扩大核酸检测排查范围，林和街、石牌街实行全员核酸检测，截至今日9时，完成采样142050份，已出检测结果均为阴性，今天16时前全部完成核酸检测。（央视新闻）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2593814.d.html</link>
+            <guid>2278189</guid>
+            <pubDate>Fri, 13 Aug 2021 02:43:47 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【湖南昨日新增确诊病例2例 均在张家界市】昨日，湖南省报告新增新型冠状病毒肺炎确诊病例2例(张家界市)。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2568942.d.html</link>
-            <guid>2278097</guid>
-            <pubDate>Fri, 13 Aug 2021 01:05:13 GMT</pubDate>
+            <title><![CDATA[稀土永磁板块活跃，大洋电机涨停，科恒股份涨超11%，银河磁体、大地熊、北方稀土等跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1194815.d.html</link>
+            <guid>2278187</guid>
+            <pubDate>Fri, 13 Aug 2021 02:40:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【江苏新增26例本土确诊 其中扬州新增25例本土确诊病例】8月12日0-24时，江苏新增本土确诊病例26例（南京市报告1例，扬州市报告25例），13例为轻型，12例为普通型，1例为重型。以上病例均在定点医院隔离治疗。新增出院病例10例（本土确诊病例9例，境外输入确诊病例1例）。解除医学观察的境外输入无症状感染者1例。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2568412.d.html</link>
-            <guid>2278095</guid>
-            <pubDate>Fri, 13 Aug 2021 01:02:42 GMT</pubDate>
+            <title><![CDATA[南京市卫健委副主任丁小平：截至目前，我市还有199例本土确诊病例在南京市公共卫生医疗中心治疗，其中45例为轻型，154例为普通型，目前所有患者病情平稳。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1193837.d.html</link>
+            <guid>2278183</guid>
+            <pubDate>Fri, 13 Aug 2021 02:37:08 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[美国白宫：美国将主办2022年美洲国家首脑会议。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1169948.d.html</link>
-            <guid>2278094</guid>
-            <pubDate>Fri, 13 Aug 2021 01:02:13 GMT</pubDate>
+            <title><![CDATA[  安徽和县一人隐瞒张家界旅居史，被行拘7日。（央视）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2591672.d.html</link>
+            <guid>2278180</guid>
+            <pubDate>Fri, 13 Aug 2021 02:35:03 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【期货交易软件龙头文华财经二次闯关IPO 报告期内原始股东低价转让股份】近日，国内知名期货交易软件企业文华财经正式递交上市申请，继2018年IPO折戟后第二次冲刺创业板。深入研读招股书发现，报告期内，文华财经频频大举分红，累计分红金额占累计归母净利润比例近七成。一边大举分红，一边极力喊渴，令人疑窦丛生。记者进一步研究发现，文华财经报告期内多名股东频繁减持股份，套现总金额约9920万元，获利颇丰。而与此同时，个别原始股东却低价转让全部股份，黯然离场。（经参）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1168857.d.html</link>
-            <guid>2278087</guid>
-            <pubDate>Fri, 13 Aug 2021 00:57:13 GMT</pubDate>
+            <title><![CDATA[【马斯克嘲讽贝佐斯：耍嘴皮有用，你早就去冥王星了】特斯拉兼SpaceX首席执行官埃隆·马斯克周四发推嘲讽亚马逊创始人杰夫·贝佐斯和他的蓝色起源公司，称“如果游说和律师能让你进入轨道，贝佐斯早就在冥王星上了。”马斯克还对另一位推特用户的观点表示赞同，这位用户指出，如果蓝色起源花时间研发火箭，而不是抗议美国国家航空航天局将载人着陆系统合同授予特斯拉的决定，它的“新格伦”运载火箭现在应该已经进入轨道了。]]></title>
+            <guid>2278177</guid>
+            <pubDate>Fri, 13 Aug 2021 02:32:29 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[国家卫健委：31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者34例，其中境外输入29例，本土5例（湖北3例，河南2例）；当日转为确诊病例33例（境外输入20例）；当日解除医学观察13例（均为境外输入）；尚在医学观察的无症状感染者499例（境外输入391例）。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2566728.d.html</link>
-            <guid>2278085</guid>
-            <pubDate>Fri, 13 Aug 2021 00:54:18 GMT</pubDate>
+            <title><![CDATA[多地中风险清零，48个县市区人员暂缓进京，一图速览。（北京日报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1192212.d.html</link>
+            <guid>2278174</guid>
+            <pubDate>Fri, 13 Aug 2021 02:30:19 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[据加媒报道，加拿大将关闭驻阿富汗使馆、撤离相关人员。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2566312.d.html</link>
-            <guid>2278083</guid>
-            <pubDate>Fri, 13 Aug 2021 00:52:16 GMT</pubDate>
+            <title><![CDATA[【法律将规范APP收集个人信息、  “大数据杀熟”等】今天上午，全国人大常委会法制工作委员会举行记者会，发言人臧铁伟就将于8月13日召开的全国人大常委会介绍相关立法工作有关情况并回答记者提问。臧铁伟介绍，将提请常委会审议的个人信息保护法草案三审稿进一步完善个人信息处理规则，特别是对应用程序（APP）过度收集个人信息、“大数据杀熟”等作出有针对性规范。同时，将不满十四周岁未成年人的个人信息作为敏感个人信息，并要求个人信息处理者对此制定专门的个人信息处理规则。（人民法院报）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1191913.d.html</link>
+            <guid>2278173</guid>
+            <pubDate>Fri, 13 Aug 2021 02:29:10 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【新能源汽车专属保险破局可待】目前，我国新能源汽车保有量已经突破600万辆，但却一直沿用传统燃油车的相关保险条款。随着新能源汽车占比迅速提升，新能源汽车专属保险一直呼声很高，业界也已经探讨多年。目前，这一矛盾的破局指日可待。近日，中国保险行业协会正式下发《新能源汽车商业保险专属条款（2021版征求意见稿）》和《新能源汽车驾乘人员意外伤害保险示范条款（2021版行业征求意见稿）》。业界认为，《专属条款》更突出新能源汽车特点，有望在一定程度上解决此前新能源汽车赔付率偏高、承保盈利困难等问题。（经参报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2565296.d.html</link>
-            <guid>2278080</guid>
-            <pubDate>Fri, 13 Aug 2021 00:47:49 GMT</pubDate>
+            <title><![CDATA[【塔利班逼近阿富汗首都喀布尔，美军突然宣布向阿富汗增派3000兵力】在美国即将完成从阿富汗撤军的行动之际，美军又决定向阿富汗派遣3000人的部队，以协助美国大使馆人员等撤离阿富汗。 美国“军事”网站8月12日报道称，美国将向阿富汗增派数千名士兵协助美国驻喀布尔大使馆的部分人员撤离，塔利班的快速推进已让阿富汗首都处于危险之中。（新华国际）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1191483.d.html</link>
+            <guid>2278172</guid>
+            <pubDate>Fri, 13 Aug 2021 02:27:23 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[市场消息：菲律宾将对10个国家实施旅行限制，直至8月31日。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1166440.d.html</link>
-            <guid>2278078</guid>
-            <pubDate>Fri, 13 Aug 2021 00:45:05 GMT</pubDate>
+            <title><![CDATA[8月13日，华为技术有限公司“车辆涉水处理方法、装置及车辆”专利获授权，公开号为CN109147367B。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2588701.d.html</link>
+            <guid>2278167</guid>
+            <pubDate>Fri, 13 Aug 2021 02:23:04 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[韩国总理呼吁市民不要在本周末旅游。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1165817.d.html</link>
-            <guid>2278076</guid>
-            <pubDate>Fri, 13 Aug 2021 00:41:53 GMT</pubDate>
+            <title><![CDATA[证券板块短线拉升，国联证券涨超4%，华西证券、东方财富、湘财股份跟涨。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1190258.d.html</link>
+            <guid>2278166</guid>
+            <pubDate>Fri, 13 Aug 2021 02:22:13 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[【两市融资余额增加68.61亿元】截至8月12日，上交所融资余额报8933.09亿元，较前一交易日增加39.1亿元；深交所融资余额报7992.79亿元，较前一交易日增加29.51亿元；两市合计16925.88亿元，较前一交易日增加68.61亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2563621.d.html</link>
-            <guid>2278075</guid>
-            <pubDate>Fri, 13 Aug 2021 00:39:22 GMT</pubDate>
+            <title><![CDATA[日本首相菅义伟：日本西部将迎来暴雨，目前处于最高警戒状态。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1189529.d.html</link>
+            <guid>2278163</guid>
+            <pubDate>Fri, 13 Aug 2021 02:19:58 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[  【湖北局部降水量超500毫米 这场雨还会下多久】8月11日至12日上午，襄阳、随州、孝感、武汉等多地遭遇极端强降雨天气，局部降水量突破500毫米。预计本轮降水会持续到13日夜间，主要降水落区在鄂西南、鄂东北以及鄂东南地区。  （湖北日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1164876.d.html</link>
-            <guid>2278073</guid>
-            <pubDate>Fri, 13 Aug 2021 00:37:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【外资暂停中国投资？海外巨头7月纷纷加仓，腾讯、阿里均在列】近期，网传以软银为首的外资暂停投资中国资产的事件持续发酵，而资管巨头贝莱德二季度大幅削减阿里巴巴仓位，一度引起市场的担忧。不过，记者梳理海外基金7月份最新动态发现，富达、施罗德等不少资管巨头实际上并没有大幅度减持中国资产，反而在下跌的过程中逆势“抄底”，腾讯、阿里、美团等均在增持名单中。此外，英国知名投资机构Baillie Gifford近期也在大举增持美团，金额接近20亿港元。（证券时报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2563221.d.html</link>
-            <guid>2278072</guid>
-            <pubDate>Fri, 13 Aug 2021 00:37:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：欧盟呼吁塔利班恢复谈判，停止暴力。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2562597.d.html</link>
-            <guid>2278071</guid>
-            <pubDate>Fri, 13 Aug 2021 00:33:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【兵器工业集团聚双环戊二烯项目研发取得突破】近日，中国兵器工业集团北方华锦化学工业集团有限公司与河南科技大学合作，成功完成“高压反应注射成型聚双环戊二烯”小试实验。此项研发有助于降低聚双环戊二烯材料生产成本，为汽车和机械制造行业轻量化生产提供材料支持，同时也改善了高纯度双环戊二烯下游单一的局面，打破了国外对聚双环戊二烯材料生产配方的垄断，形成了华锦集团具有自主知识产权的专利技术。（国资委）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1164152.d.html</link>
-            <guid>2278070</guid>
-            <pubDate>Fri, 13 Aug 2021 00:33:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[上海证交所上日融资余额上涨0.4%至8933.1亿元。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2562513.d.html</link>
-            <guid>2278069</guid>
-            <pubDate>Fri, 13 Aug 2021 00:33:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【英国男子4x100米选手涉兴奋剂被停赛】北京时间今天，国际兴奋剂检测机构证实，东京奥运会田径男子4x100米接力银牌得主英国队的吉津杜·乌贾“因涉嫌使用兴奋剂而遭到停赛”。根据规则，违反反兴奋剂规则的运动员参加比赛，该队将被取消该项目的参赛资格，及取消所获头衔、奖项、奖牌等。6日，男子4x100米比赛中，中国队获第四名。   （央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1164022.d.html</link>
-            <guid>2278066</guid>
-            <pubDate>Fri, 13 Aug 2021 00:33:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[市场消息：美国宇航局（NASA）和波音公司将披露Starliner飞行测试的最新信息。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1163677.d.html</link>
-            <guid>2278065</guid>
-            <pubDate>Fri, 13 Aug 2021 00:31:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【韩国前总统朴槿惠私宅被拍卖】8月12日，据韩国法院拍卖专门企业和韩国资产管理公社系统透露，韩国前总统朴槿惠位于首尔瑞草区内谷洞的私宅，以超过38亿韩元(约合人民币2100余万元)被拍卖。该私宅鉴定价为31.6554亿韩元(约合人民币1800余万元)，地下1层、地上2层，土地面积406平方米、建筑面积571平方米。朴槿惠现年70岁，累计获刑22年，如果没有特赦和假释，最晚将在87岁出狱。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1163629.d.html</link>
-            <guid>2278064</guid>
-            <pubDate>Fri, 13 Aug 2021 00:31:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【茅台白金酒被执行433万元，系与陶瓷公司分期付款纠纷而起】8月13日上午，经由中国执行信息公开网获悉，贵州茅台酒厂（集团）白金酒有限责任公司于近日被宜兴市人民法院列为被执行人。执行标的金额433.8769万元。另据天眼查关联案件显示，此案疑因宜兴市金鱼陶瓷有限公司与贵州茅台酒厂（集团）白金酒有限责任公司相关分期付款买卖合同纠纷而起。（财经网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1163330.d.html</link>
-            <guid>2278063</guid>
-            <pubDate>Fri, 13 Aug 2021 00:30:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【渤海股份：公司总经理、监事会主席辞职】渤海股份公告，冯文清先生由于工作原因，申请辞去公司总经理职务，辞职后仍在公司继续履职。王立林先生由于工作原因，申请辞去公司监事、监事会主席职务，辞职后仍在公司继续履职。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2560938.d.html</link>
-            <guid>2278060</guid>
-            <pubDate>Fri, 13 Aug 2021 00:24:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[湖南长沙宁乡两地调整为低风险地区。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1162195.d.html</link>
-            <guid>2278059</guid>
-            <pubDate>Fri, 13 Aug 2021 00:23:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【浑水创始人不再做空特斯拉：别扯生产规模，特斯拉的资本规模无人能敌】据外媒报道，浑水创始人卡森·布洛克表示，他不再做空特斯拉，并且“不打算恢复其空头头寸”。布洛克称，特斯拉空头们“对特斯拉的问题一直是正确的，也一直是错误的。”布洛克解释说，空头们的观点“关注的是特斯拉在电动汽车领域缺乏规模，无法与通用、福特和大众等公司竞争。但特斯拉有的是资本基础。说到底，对于一个能让该死的车开起来，让火箭飞起来的人来说，这才是最重要的。”早在2013年，布洛克就表示，他不会做空特斯拉。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1161949.d.html</link>
-            <guid>2278058</guid>
-            <pubDate>Fri, 13 Aug 2021 00:21:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[商务部消费促进司负责人：新能源汽车销量已超2020年全年水平。1-7月生产企业新能源汽车销量147.8万辆，同比增长2倍，已超过2020年全年水平，较2019年同期增长1倍, 占新车销量的10%。7月份，销量27.1万辆，同比增长1.6倍，刷新单月历史记录。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1160781.d.html</link>
-            <guid>2278055</guid>
-            <pubDate>Fri, 13 Aug 2021 00:15:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[商务部消费促进司负责人：生产企业新车销量增速有所回落。1-7月生产企业新车销量1475.6万辆，同比增长19.3%，较2019年同期增长4.4%。7月份，销量186.4万辆，同比下降11.9%，为5月份以来第3个月出现负增长。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1160725.d.html</link>
-            <guid>2278054</guid>
-            <pubDate>Fri, 13 Aug 2021 00:15:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【湖北柳林镇强降雨致21人遇难】8月11日至12日，湖北随县柳林镇发生极端强降雨天气。据初步排查，此轮强降雨造成柳林镇8000余人受灾，21人死亡、4人失联；受淹、受损房屋商铺2700余间，其中倒塌221间；冲毁道路11．3公里、桥梁63座、电力通信线杆725根，镇区电力、通讯中断。救援抢险工作仍在推进。 （央视）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2557601.d.html</link>
-            <guid>2278050</guid>
-            <pubDate>Fri, 13 Aug 2021 00:07:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[路透调查：将近三分之二的受访经济学家表示，美联储将在9月份宣布缩减资产购买规模。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1159049.d.html</link>
-            <guid>2278048</guid>
-            <pubDate>Fri, 13 Aug 2021 00:06:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【美国今年已发生4533起仇恨亚裔事件 已接近去年全年水平】美国“停止仇恨亚裔”组织周四发布的报告显示，自2020年3月19日至今年6月，美国共发生9081起反亚裔事件，其中去年4548起，今年迄今已发生4533起。这表明，尽管美国已开展数月停止仇恨亚裔的政治和社会活动，但相关恶性事件不减反增。（中国日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqciyzm1159019.d.html</link>
-            <guid>2278047</guid>
-            <pubDate>Fri, 13 Aug 2021 00:06:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【北京市卫健委提醒：已经或即将解封的小区居民坚持戴口罩】市卫健委提醒，请市民朋友继续履行个人防控责任，落实社区和单位相关防疫要求，做到非必须不出境，非必要不出京，不到中高风险地区和报告有病例发生的地区出差、旅行。昌平区、海淀区等地已经或即将解封的小区居民，要继续加强防控意识，做好健康监测，落实社区防控要求，牢记解封不等于解防，个人防护一刻也不能放松，要坚持戴口罩、不扎堆、不聚集、不串门、不出京，如出现发热、咳嗽等症状，要及时就近到发热门诊就医。  （北京日报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2557348.d.html</link>
-            <guid>2278046</guid>
-            <pubDate>Fri, 13 Aug 2021 00:05:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【珠海市政协召开专题圆桌协商会 构建澳珠多层次轨道交通系统】8月12日下午，珠海市政协召开圆桌协商会，围绕“构建澳珠多层次轨道交通系统，提升澳珠极点辐射带动能力”协商议政。报告征求意见稿提出，需要推动高铁、城际、城市轨道等多个层次的轨道交通间的一体化衔接，构建分工明确、布局合理、衔接高效、服务优质的澳珠多层次轨道交通系统，支撑澳门经济适度多元发展、融入国家发展大局，促进澳门、珠海对外以及澳珠极点之间的资源交流，提升澳珠极点在全国和粤港澳大湾区的辐射带动作用。据悉，课题组将吸收职能部门和委员提出的意见建议，尽快修改完善调研报告，报市委、市政府决策参考。（珠海特区报）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2557201.d.html</link>
-            <guid>2278045</guid>
-            <pubDate>Fri, 13 Aug 2021 00:04:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【盖茨承诺向气候变化项目提供15亿美元  若基础设施法案获国会通过】据报道，微软联合创始人比尔·盖茨（Bill Gates）在周四表示，如果美国国会通过一项旨在资助清洁能源技术的两党基础设施计划，他的气候投资基金将承诺为与联邦政府的联合项目提供15亿美元，以应对气候变化。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2556960.d.html</link>
-            <guid>2278042</guid>
-            <pubDate>Fri, 13 Aug 2021 00:03:18 GMT</pubDate>
+            <title><![CDATA[市场消息：美国与加拿大和德国讨论了减少在阿富汗喀布尔民众的问题。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-13/detail-ikqcfncc2587503.d.html</link>
+            <guid>2278162</guid>
+            <pubDate>Fri, 13 Aug 2021 02:18:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
