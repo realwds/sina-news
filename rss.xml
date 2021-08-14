@@ -4,11 +4,23 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 14 Aug 2021 04:26:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Aug 2021 04:51:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【江苏96个高速公路收费站出入口单向或双向暂时关闭】截至8月14日上午，南京、无锡、徐州、常州、苏州、南通、连云港、淮安、扬州、镇江、泰州等地区96个高速公路收费站出入口单向或双向暂时关闭。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1411698.d.html</link>
+            <guid>2279076</guid>
+            <pubDate>Sat, 14 Aug 2021 04:38:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【广东外贸连续9个月正增长 今年前7月集装箱出口增4.6倍】据海关广东分署统计，今年1—7月，广东外贸进出口4.49万亿元人民币，较去年同期增长20.5%，占全国外贸总值的21.1%。其中，7月，广东外贸进出口6915.5亿元，增长2.7%，自2020年11月起连续第9个月实现正增长。前7月，广东集装箱出口增4.6倍。同期，集成电路进口5924.4亿元，增长25%，占比33.4%。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1409825.d.html</link>
+            <guid>2279074</guid>
+            <pubDate>Sat, 14 Aug 2021 04:27:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【我国成功合成可划伤钻石的新型材料】国家重点实验室之一的燕山大学亚稳材料制备技术与科学实验室透露，新型非晶材料（AM-III）近日在该实验室成功合成。非晶材料也叫玻璃态材料，是一大类刚性固体，人们生活中常见的玻璃即是一种典型的非晶材料。据专家介绍，AM-III密度与金刚石相当，维氏硬度HV高达113 GPa，可划伤单晶金刚石。（新华社）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqciyzm1404303.d.html</link>
@@ -292,18 +304,6 @@
             <title><![CDATA[惠誉：确认土耳其评级为“BB-”；前景展望稳定。]]></title>
             <guid>2278973</guid>
             <pubDate>Fri, 13 Aug 2021 21:03:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[美国国家飓风中心：Linda已增强为大型飓风。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2739523.d.html</link>
-            <guid>2278971</guid>
-            <pubDate>Fri, 13 Aug 2021 20:47:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[穆迪：确认爱尔兰评级为A2，前景展望由稳定调整为积极。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-14/detail-ikqcfncc2739238.d.html</link>
-            <guid>2278969</guid>
-            <pubDate>Fri, 13 Aug 2021 20:39:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
