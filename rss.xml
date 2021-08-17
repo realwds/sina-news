@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Tue, 17 Aug 2021 04:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Aug 2021 04:52:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[【科技进步法修订草案：提高基础研究经费在全社会研究开发经费总额中的比例】科学技术进步法修订草案17日初次提请十三届全国人大常委会第三十次会议审议。为加强基础研究、提升原始创新能力，草案提出，建立基础研究稳定支持的投入机制，提高基础研究经费在全社会研究开发经费总额中的比例。本次科技进步法修改，突出强化国家战略科技力量，推动关键核心技术攻关。草案明确，构建和强化以国家实验室、国家科学技术研究开发机构、高水平研究型大学、科技领军企业为重要组成部分的国家战略科技力量；完善社会主义市场经济条件下关键核心技术攻关新型举国体制，组织实施体现国家战略需求的重大科技任务等。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-17/detail-ikqciyzm1951843.d.html</link>
+            <guid>2282442</guid>
+            <pubDate>Tue, 17 Aug 2021 04:47:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【我国修法进一步激发科技创新活力】科学技术进步法修订草案17日提请十三届全国人大常委会第三十次会议审议。草案作出一系列规定，进一步营造良好创新环境，激发科学技术人员创新创造活力。草案规定，国家采取多种措施提高科学技术人员的社会地位；建立健全创新人才教育培养机制，完善战略性科技人才储备。（新华社）]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-17/detail-ikqcfncc3346878.d.html</link>
+            <guid>2282438</guid>
+            <pubDate>Tue, 17 Aug 2021 04:32:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[市场消息：马来西亚国会议员将在8月18日当地时间下午4点前提交总理候选人提名。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-17/detail-ikqciyzm1948373.d.html</link>
+            <guid>2282437</guid>
+            <pubDate>Tue, 17 Aug 2021 04:30:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[中国建筑国际上半年营收363.7亿港元，净利润35亿港元，每股中期派息0.20港元。]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-17/detail-ikqcfncc3345617.d.html</link>
@@ -337,24 +355,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-17/detail-ikqciyzm1919870.d.html</link>
             <guid>2282321</guid>
             <pubDate>Tue, 17 Aug 2021 02:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【外媒：日本一核电站火警警报启动 涡轮机室冒烟】卫星社消息，据日本媒体援引核电站运营公司发言人的话报道称，日本静冈县滨冈核电站的火警警报响起，反应堆的涡轮机室里记录到烟雾。 报道称，事件发生于当地时间5时15分核电站第五机组建筑内。 据报道，专家信息显示，建筑物的数个楼层都触发了火警警报传感器。目前，机组运行已完全停止。  （参考消息）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-17/detail-ikqciyzm1919554.d.html</link>
-            <guid>2282303</guid>
-            <pubDate>Tue, 17 Aug 2021 02:35:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[盐湖提锂概念股回暖，西藏矿业封涨停，盐湖股份涨超3%，久吾高科、西藏城投、赣锋锂业跟涨。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-17/detail-ikqcfncc3317676.d.html</link>
-            <guid>2282301</guid>
-            <pubDate>Tue, 17 Aug 2021 02:35:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[  【深圳成全国首个允许个人破产的城市】国家发改委新闻发言人孟玮17日在新闻发布会上表示，2020年10月，《深圳建设中国特色社会主义先行示范区综合改革试点实施方案（2020—2025年）》和首批授权事项清单向社会发布。深圳稳步推进法规规章的立改废释工作，新制定法规17部，修改10部，作出法规性决定1项，废止法规4部，26个改革事项已纳入相关法规。挂牌成立全国首家个人破产事务管理机构，深圳成为全国首个允许个人破产的城市。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-17/detail-ikqcfncc3316810.d.html</link>
-            <guid>2282283</guid>
-            <pubDate>Tue, 17 Aug 2021 02:31:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
