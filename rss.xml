@@ -4,11 +4,17 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sun, 22 Aug 2021 04:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Aug 2021 04:52:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[据美国有线电视新闻网（CNN）：美国东部田纳西州洪灾造成至少10人遇难，其中包括2名儿童。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqcfncc4298923.d.html</link>
+            <guid>2288188</guid>
+            <pubDate>Sun, 22 Aug 2021 04:35:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[【外媒：美国或将启用民航帮助执行阿富汗撤离任务】当地时间21日，知情人士称，美国政府计划让美国主要航空公司帮助执行阿富汗撤离任务。《华尔街日报》21日报道援引知情人士的话称，美国政府计划增加从阿富汗首都喀布尔的航班数量，准备让几家主要航空公司帮助执行阿富汗撤离任务。报道称，美政府打算激活民用后备航空队（CRAF），该航空队于1952年成立，包含来自 5 家航空公司提供的近 20 架商用飞机。（环球网）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-22/detail-ikqciyzm2900259.d.html</link>
@@ -387,12 +393,6 @@
             <title><![CDATA[比亚迪半导体相关方回应IPO遭天元律所“牵连”中止：会尽快推进复核。（21世纪经济报道）]]></title>
             <guid>2287558</guid>
             <pubDate>Sat, 21 Aug 2021 14:21:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【广西多措并举满足优势商品出口，前7月外贸进出口快速增长】 广西商务厅厅长杨春庭8月21日表示，广西将做好边境口岸疏堵工作，保障友谊关通关顺畅；加强对驳船运力以及外贸集装箱调配的协调指导，确保香港“天天班”班次运行；稳定运行以广西为始发地的跨境直达中欧班列，满足优势商品出口。1-7月，广西外贸进出口3423.1亿元，同比增长32.3%，高于全国平均水平7.8个百分点，增幅在西部地区排位较1-6月提升1位，今年以来首次超过重庆。（中新网）]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-21/detail-ikqciyzm2825963.d.html</link>
-            <guid>2287554</guid>
-            <pubDate>Sat, 21 Aug 2021 14:20:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
