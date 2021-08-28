@@ -4,11 +4,29 @@
         <title>新浪新闻</title>
         <link>https://realwds.github.io/sina-news/</link>
         <description>新浪全球实时财经新闻</description>
-        <lastBuildDate>Sat, 28 Aug 2021 04:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Aug 2021 04:51:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>sina news feed generator</generator>
         <language>zh-CN</language>
         <atom:link href="https://realwds.github.io/sina-news/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ 【郑州市区公交线路明起全面恢复 主干线路高峰段发车间隔缩短为3到5分钟】8月29日起，郑州市区公交线路将全面恢复正常运营（含夜班），主干线路高峰时间发车间隔缩短为3到5分钟，郑州公交集团将实时关注客流情况，及时调整运力投放，方便市民出行。乘客须戴口罩、扫健康码（显示绿色）乘坐公交车，持老年卡乘客不能扫码者可直接刷卡乘车。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0884591.d.html</link>
+            <guid>2295335</guid>
+            <pubDate>Sat, 28 Aug 2021 04:46:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[【万丰奥威：钻石飞机订单已经排到2023年】万丰奥威在互动平台回复投资者称，截至目前，钻石飞机订单已经排到2023年。海运价格上涨以及船期紧张不会对经营产生重大影响。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2653020.d.html</link>
+            <guid>2295333</guid>
+            <pubDate>Sat, 28 Aug 2021 04:33:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[欧洲地中海地震中心：南桑维奇群岛地区发生5.2级地震。]]></title>
+            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzscyx0881818.d.html</link>
+            <guid>2295332</guid>
+            <pubDate>Sat, 28 Aug 2021 04:30:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[今天（8月28日），大庆油田古龙陆相页岩油国家级示范区和古页油平1井的揭牌仪式在黑龙江举行，标志着大庆油田古龙陆相页岩油勘探开发进入了新的阶段，确立了新的目标。（央视）]]></title>
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2651585.d.html</link>
@@ -391,12 +409,6 @@
             <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2598908.d.html</link>
             <guid>2295232</guid>
             <pubDate>Fri, 27 Aug 2021 22:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[【C罗回归皆大欢喜，曼联股价应声涨超10%】曼联ADR周五（8月27日）收涨5.84%，报18.29美元，创3月16日以来收盘新高，盘中一度上涨11%，逼平3月15日顶部。该俱乐部此前确认，与意大利尤文图斯达成了C罗转会协议，只待就个人条款、签证问题和医疗问题达成一致。尤文图斯俱乐部米兰股价收涨1.23%，报0.7805欧元，一度涨穿0.8欧元，为4月21日以来首次。曼联在社交媒体上欢迎C罗回归，并称，俱乐部每个人都期待欢迎C罗回到曼彻斯特。他回到了老特拉福德球场，而就在大约12年前，他离开曼联去了西班牙皇马。]]></title>
-            <link>https://finance.sina.cn/7x24/2021-08-28/detail-iktzqtyt2598723.d.html</link>
-            <guid>2295231</guid>
-            <pubDate>Fri, 27 Aug 2021 22:35:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
